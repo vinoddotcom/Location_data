@@ -2243,7 +2243,7 @@
         "display_name": "Franklin County, Middle Tennessee, Tennessee, United States",
         "place_id": 327025849
     },
-    "Chugach (← Valdez-Cordova) Alaska": {
+    "Chugach Valdez-Cordova Alaska": {
         "display_name": "Not found",
         "place_id": "Not found"
     },
@@ -11306,5 +11306,1253 @@
     "Catron New Mexico": {
         "display_name": "Catron County, New Mexico, United States",
         "place_id": 318027429
+    },
+    "Richland Wisconsin": {
+        "display_name": "Richland County, Wisconsin, United States",
+        "place_id": 27413345
+    },
+    "Wright Missouri": {
+        "display_name": "Wright County, Missouri, United States",
+        "place_id": 290389795
+    },
+    "Talbot Maryland": {
+        "display_name": "Talbot County, Maryland, United States",
+        "place_id": 302862285
+    },
+    "Rockwall Texas": {
+        "display_name": "Rockwall County, Texas, United States",
+        "place_id": 291176188
+    },
+    "Summers West Virginia": {
+        "display_name": "Summers County, West Virginia, United States",
+        "place_id": 296006806
+    },
+    "Copper River (← Valdez-Cordova) Alaska": {
+        "display_name": "Not found",
+        "place_id": "Not found"
+    },
+    "Camp Texas": {
+        "display_name": "Camp County, Texas, United States",
+        "place_id": 291830945
+    },
+    "Henderson Texas": {
+        "display_name": "Henderson County, Texas, United States",
+        "place_id": 291401275
+    },
+    "Palo Pinto Texas": {
+        "display_name": "Palo Pinto County, Texas, United States",
+        "place_id": 290745645
+    },
+    "Grant Louisiana": {
+        "display_name": "Grant Parish, Louisiana, United States",
+        "place_id": 263624229
+    },
+    "Yuma Colorado": {
+        "display_name": "Yuma County, Colorado, United States",
+        "place_id": 286662549
+    },
+    "Torrance New Mexico": {
+        "display_name": "Torrance County, New Mexico, United States",
+        "place_id": 288980094
+    },
+    "Leake Mississippi": {
+        "display_name": "Leake County, Mississippi, United States",
+        "place_id": 292230354
+    },
+    "Chariton Missouri": {
+        "display_name": "Chariton County, Missouri, United States",
+        "place_id": 293511928
+    },
+    "Kanawha West Virginia": {
+        "display_name": "Kanawha County, West Virginia, United States",
+        "place_id": 296648282
+    },
+    "Worcester Maryland": {
+        "display_name": "Worcester County, Maryland, United States",
+        "place_id": 299075106
+    },
+    "Kewaunee Wisconsin": {
+        "display_name": "Kewaunee County, Wisconsin, United States",
+        "place_id": 319937504
+    },
+    "Osage Missouri": {
+        "display_name": "Osage County, Missouri, United States",
+        "place_id": 292443420
+    },
+    "Le Flore Oklahoma": {
+        "display_name": "Le Flore County, Oklahoma, United States",
+        "place_id": 290928022
+    },
+    "Woodford Kentucky": {
+        "display_name": "Woodford County, Kentucky, United States",
+        "place_id": 296737063
+    },
+    "Wagoner Oklahoma": {
+        "display_name": "Wagoner County, Oklahoma, United States",
+        "place_id": 292306084
+    },
+    "Lincoln New Mexico": {
+        "display_name": "Lincoln County, New Mexico, United States",
+        "place_id": 289506049
+    },
+    "Marion Missouri": {
+        "display_name": "Marion County, Missouri, United States",
+        "place_id": 293674852
+    },
+    "Mathews Virginia": {
+        "display_name": "Mathews County, Virginia, United States",
+        "place_id": 301717558
+    },
+    "Wheatland Montana": {
+        "display_name": "Wheatland County, Montana, United States",
+        "place_id": 285495544
+    },
+    "Murray Georgia": {
+        "display_name": "Murray County, Georgia, United States",
+        "place_id": 296567581
+    },
+    "Anderson Texas": {
+        "display_name": "Anderson County, Texas, United States",
+        "place_id": 263380691
+    },
+    "Elk Kansas": {
+        "display_name": "Elk County, Kansas, United States",
+        "place_id": 288515133
+    },
+    "McCormick South Carolina": {
+        "display_name": "McCormick County, South Carolina, United States",
+        "place_id": 298978078
+    },
+    "Lee South Carolina": {
+        "display_name": "Lee County, South Carolina, United States",
+        "place_id": 295629991
+    },
+    "Oglala Lakota (Shannon) South Dakota": {
+        "display_name": "Oglala Lakota County, South Dakota, United States",
+        "place_id": 284981958
+    },
+    "Kitsap Washington": {
+        "display_name": "Kitsap County, Washington, United States",
+        "place_id": 283731896
+    },
+    "Poweshiek Iowa": {
+        "display_name": "Poweshiek County, Iowa, United States",
+        "place_id": 325248169
+    },
+    "Iron Wisconsin": {
+        "display_name": "Iron County, Wisconsin, United States",
+        "place_id": 327577188
+    },
+    "Henry Kentucky": {
+        "display_name": "Henry County, Kentucky, United States",
+        "place_id": 293852781
+    },
+    "Dukes Massachusetts": {
+        "display_name": "Dukes County, Massachusetts, United States",
+        "place_id": 315250882
+    },
+    "Bexar Texas": {
+        "display_name": "Bexar County, Texas, United States",
+        "place_id": 273190468
+    },
+    "Washington Florida": {
+        "display_name": "Washington County, Florida, United States",
+        "place_id": 263173822
+    },
+    "Collin Texas": {
+        "display_name": "Collin County, Texas, United States",
+        "place_id": 389690391
+    },
+    "Caldwell Louisiana": {
+        "display_name": "Caldwell Parish, Louisiana, United States",
+        "place_id": 292354704
+    },
+    "Peach Georgia": {
+        "display_name": "Peach County, Georgia, United States",
+        "place_id": 299346222
+    },
+    "Nash North Carolina": {
+        "display_name": "Nash County, North Carolina, United States",
+        "place_id": 299702056
+    },
+    "Bradford Pennsylvania": {
+        "display_name": "Bradford County, Pennsylvania, United States",
+        "place_id": 306390646
+    },
+    "Fayette West Virginia": {
+        "display_name": "Fayette County, West Virginia, United States",
+        "place_id": 297583627
+    },
+    "Grant Minnesota": {
+        "display_name": "Grant County, Minnesota, United States",
+        "place_id": 286959832
+    },
+    "Cedar Missouri": {
+        "display_name": "Cedar County, Missouri, United States",
+        "place_id": 290910582
+    },
+    "Hayes Nebraska": {
+        "display_name": "Hayes County, Nebraska, United States",
+        "place_id": 285782270
+    },
+    "Pierce North Dakota": {
+        "display_name": "Pierce County, North Dakota, United States",
+        "place_id": 328977649
+    },
+    "Jasper Indiana": {
+        "display_name": "Jasper County, Indiana, United States",
+        "place_id": 324510590
+    },
+    "Southampton Virginia": {
+        "display_name": "Southampton County, Virginia, United States",
+        "place_id": 302360038
+    },
+    "Eureka Nevada": {
+        "display_name": "Eureka County, Nevada, United States",
+        "place_id": 286175332
+    },
+    "Harford Maryland": {
+        "display_name": "Harford County, Maryland, United States",
+        "place_id": 304114652
+    },
+    "Johnson Iowa": {
+        "display_name": "Johnson County, Iowa, United States",
+        "place_id": 325742678
+    },
+    "Logan Arkansas": {
+        "display_name": "Logan County, Arkansas, United States",
+        "place_id": 292178656
+    },
+    "Athens Ohio": {
+        "display_name": "Athens County, Ohio, United States",
+        "place_id": 296372206
+    },
+    "Hancock Tennessee": {
+        "display_name": "Hancock County, East Tennessee, Tennessee, United States",
+        "place_id": 297499115
+    },
+    "Saline Nebraska": {
+        "display_name": "Saline County, Nebraska, United States",
+        "place_id": 287497771
+    },
+    "Bradley Arkansas": {
+        "display_name": "Bradley County, Arkansas, United States",
+        "place_id": 292654232
+    },
+    "Hughes Oklahoma": {
+        "display_name": "Hughes County, Oklahoma, United States",
+        "place_id": 288896423
+    },
+    "Adams Washington": {
+        "display_name": "Adams County, Washington, United States",
+        "place_id": 283359650
+    },
+    "Pickaway Ohio": {
+        "display_name": "Pickaway County, Ohio, United States",
+        "place_id": 294853775
+    },
+    "Knott Kentucky": {
+        "display_name": "Knott County, Kentucky, United States",
+        "place_id": 297018010
+    },
+    "Pearl River Mississippi": {
+        "display_name": "Pearl River County, Mississippi, United States",
+        "place_id": 262266424
+    },
+    "San Diego California": {
+        "display_name": "San Diego, San Diego County, California, United States",
+        "place_id": 278075949
+    },
+    "Fall River South Dakota": {
+        "display_name": "Fall River County, South Dakota, United States",
+        "place_id": 286305100
+    },
+    "Phillips Kansas": {
+        "display_name": "Phillips County, Kansas, United States",
+        "place_id": 287519235
+    },
+    "Weld Colorado": {
+        "display_name": "Weld County, Colorado, United States",
+        "place_id": 284416537
+    },
+    "Nez Perce Idaho": {
+        "display_name": "Nez Perce County, Idaho, United States",
+        "place_id": 285632766
+    },
+    "Cherry Nebraska": {
+        "display_name": "Cherry County, Nebraska, United States",
+        "place_id": 286630188
+    },
+    "Beckham Oklahoma": {
+        "display_name": "Beckham County, Oklahoma, United States",
+        "place_id": 288364885
+    },
+    "Haywood North Carolina": {
+        "display_name": "Haywood County, North Carolina, United States",
+        "place_id": 297390485
+    },
+    "Blaine Oklahoma": {
+        "display_name": "Blaine County, Oklahoma, United States",
+        "place_id": 289990538
+    },
+    "Cerro Gordo Iowa": {
+        "display_name": "Cerro Gordo County, Iowa, United States",
+        "place_id": 327074838
+    },
+    "Union South Carolina": {
+        "display_name": "Union County, South Carolina, United States",
+        "place_id": 297778057
+    },
+    "Uintah Utah": {
+        "display_name": "Uintah County, Utah, United States",
+        "place_id": 285561030
+    },
+    "Spencer Indiana": {
+        "display_name": "Spencer County, Indiana, United States",
+        "place_id": 294333227
+    },
+    "Vanderburgh Indiana": {
+        "display_name": "Vanderburgh County, Indiana, United States",
+        "place_id": 295579711
+    },
+    "Boone Missouri": {
+        "display_name": "Boone County, Missouri, United States",
+        "place_id": 292523083
+    },
+    "Geneva Alabama": {
+        "display_name": "Geneva County, Alabama, United States",
+        "place_id": 262018564
+    },
+    "Benton Iowa": {
+        "display_name": "Benton County, Iowa, United States",
+        "place_id": 326943790
+    },
+    "Perkins Nebraska": {
+        "display_name": "Perkins County, Nebraska, United States",
+        "place_id": 287233280
+    },
+    "Sedgwick Kansas": {
+        "display_name": "Sedgwick County, Kansas, United States",
+        "place_id": 287953896
+    },
+    "Morris Kansas": {
+        "display_name": "Morris County, Kansas, United States",
+        "place_id": 285370979
+    },
+    "Dallas Texas": {
+        "display_name": "Dallas, Dallas County, Texas, United States",
+        "place_id": 292052191
+    },
+    "Kingman Kansas": {
+        "display_name": "Kingman County, Kansas, United States",
+        "place_id": 287213392
+    },
+    "Caddo Oklahoma": {
+        "display_name": "Caddo County, Oklahoma, United States",
+        "place_id": 290275531
+    },
+    "Klamath Oregon": {
+        "display_name": "Klamath County, Oregon, United States",
+        "place_id": 281953081
+    },
+    "Henry Missouri": {
+        "display_name": "Henry County, Missouri, United States",
+        "place_id": 294303423
+    },
+    "Barry Missouri": {
+        "display_name": "Barry County, Missouri, United States",
+        "place_id": 292505769
+    },
+    "Falls Church Virginia": {
+        "display_name": "Falls Church, Virginia, 22046, United States",
+        "place_id": 302917208
+    },
+    "Humboldt Iowa": {
+        "display_name": "Humboldt County, Iowa, United States",
+        "place_id": 326933993
+    },
+    "Grant Washington": {
+        "display_name": "Grant County, Washington, United States",
+        "place_id": 286451682
+    },
+    "McClain Oklahoma": {
+        "display_name": "McClain County, Oklahoma, United States",
+        "place_id": 290521539
+    },
+    "Kemper Mississippi": {
+        "display_name": "Kemper County, Mississippi, United States",
+        "place_id": 289777419
+    },
+    "Lewis Idaho": {
+        "display_name": "Lewis County, Idaho, United States",
+        "place_id": 284296820
+    },
+    "Lee Kentucky": {
+        "display_name": "Lee County, Kentucky, United States",
+        "place_id": 297285628
+    },
+    "Chesterfield Virginia": {
+        "display_name": "Chesterfield County, Virginia, United States",
+        "place_id": 301338003
+    },
+    "Choctaw Alabama": {
+        "display_name": "Choctaw County, Alabama, United States",
+        "place_id": 292416947
+    },
+    "Midland Michigan": {
+        "display_name": "Midland County, Michigan, United States",
+        "place_id": 325866348
+    },
+    "Clay Minnesota": {
+        "display_name": "Clay County, Minnesota, United States",
+        "place_id": 284852216
+    },
+    "Douglas Minnesota": {
+        "display_name": "Douglas County, Minnesota, United States",
+        "place_id": 326610164
+    },
+    "Miller Georgia": {
+        "display_name": "Miller County, Georgia, United States",
+        "place_id": 263869628
+    },
+    "Sangamon Illinois": {
+        "display_name": "Sangamon County, Illinois, United States",
+        "place_id": 294050872
+    },
+    "Adams Illinois": {
+        "display_name": "Adams County, Illinois, United States",
+        "place_id": 294857661
+    },
+    "Atchison Missouri": {
+        "display_name": "Atchison County, Missouri, United States",
+        "place_id": 326894752
+    },
+    "Aitkin Minnesota": {
+        "display_name": "Aitkin County, Minnesota, United States",
+        "place_id": 327246727
+    },
+    "Henry Tennessee": {
+        "display_name": "Henry County, West Tennessee, Tennessee, United States",
+        "place_id": 294100754
+    },
+    "Gasconade Missouri": {
+        "display_name": "Gasconade County, Missouri, United States",
+        "place_id": 293243118
+    },
+    "Henry Indiana": {
+        "display_name": "Henry County, Indiana, United States",
+        "place_id": 295578523
+    },
+    "Carter Oklahoma": {
+        "display_name": "Carter County, Oklahoma, United States",
+        "place_id": 288227048
+    },
+    "Rock Wisconsin": {
+        "display_name": "Rock County, Wisconsin, United States",
+        "place_id": 325430758
+    },
+    "Clinton Missouri": {
+        "display_name": "Clinton County, Missouri, United States",
+        "place_id": 292615855
+    },
+    "Middlesex New Jersey": {
+        "display_name": "Middlesex County, New Jersey, United States",
+        "place_id": 373099091
+    },
+    "Stillwater Montana": {
+        "display_name": "Stillwater County, Montana, United States",
+        "place_id": 286059292
+    },
+    "Hamilton Indiana": {
+        "display_name": "Hamilton County, Indiana, United States",
+        "place_id": 324585190
+    },
+    "Columbia Oregon": {
+        "display_name": "Columbia County, Oregon, United States",
+        "place_id": 284630578
+    },
+    "Copiah Mississippi": {
+        "display_name": "Copiah County, Mississippi, United States",
+        "place_id": 264573548
+    },
+    "Yellowstone Montana": {
+        "display_name": "Yellowstone County, Montana, United States",
+        "place_id": 286145139
+    },
+    "Beaufort North Carolina": {
+        "display_name": "Beaufort County, North Carolina, United States",
+        "place_id": 301120378
+    },
+    "Schuyler Missouri": {
+        "display_name": "Schuyler County, Missouri, United States",
+        "place_id": 324728831
+    },
+    "Kosciusko Indiana": {
+        "display_name": "Kosciusko County, Indiana, United States",
+        "place_id": 323974043
+    },
+    "McLean Illinois": {
+        "display_name": "McLean County, Illinois, United States",
+        "place_id": 326534036
+    },
+    "Montcalm Michigan": {
+        "display_name": "Montcalm County, Michigan, United States",
+        "place_id": 323406756
+    },
+    "Iosco Michigan": {
+        "display_name": "Iosco County, Michigan, United States",
+        "place_id": 322025964
+    },
+    "Ford Illinois": {
+        "display_name": "Ford County, Illinois, United States",
+        "place_id": 326653502
+    },
+    "Travis Texas": {
+        "display_name": "Travis County, Texas, United States",
+        "place_id": 275824181
+    },
+    "Luzerne Pennsylvania": {
+        "display_name": "Luzerne County, Pennsylvania, United States",
+        "place_id": 369058773
+    },
+    "Webster West Virginia": {
+        "display_name": "Webster County, West Virginia, United States",
+        "place_id": 294806095
+    },
+    "Northeastern Connecticut ": {
+        "display_name": "Northeastern Connecticut Planning Region, Connecticut, United States",
+        "place_id": 379510118
+    },
+    "Glacier Montana": {
+        "display_name": "Glacier County, Montana, United States",
+        "place_id": 329516842
+    },
+    "Pawnee Nebraska": {
+        "display_name": "Pawnee County, Nebraska, United States",
+        "place_id": 286663222
+    },
+    "Monroe Missouri": {
+        "display_name": "Monroe County, Missouri, United States",
+        "place_id": 293215898
+    },
+    "Coryell Texas": {
+        "display_name": "Coryell County, Texas, United States",
+        "place_id": 275087548
+    },
+    "Prince of Wales-Hyder Alaska": {
+        "display_name": "Prince of Wales-Hyder (CA), Alaska, United States",
+        "place_id": 329006547
+    },
+    "Orleans New York": {
+        "display_name": "Orleans County, New York, United States",
+        "place_id": 306390373
+    },
+    "Wilkinson Georgia": {
+        "display_name": "Wilkinson County, Georgia, United States",
+        "place_id": 302856687
+    },
+    "Henderson Illinois": {
+        "display_name": "Henderson County, Illinois, United States",
+        "place_id": 324602416
+    },
+    "Wicomico Maryland": {
+        "display_name": "Wicomico County, Maryland, United States",
+        "place_id": 301817811
+    },
+    "Lowndes Georgia": {
+        "display_name": "Lowndes County, Georgia, United States",
+        "place_id": 262366601
+    },
+    "Custer Nebraska": {
+        "display_name": "Custer County, Nebraska, United States",
+        "place_id": 287413858
+    },
+    "Charles Virginia": {
+        "display_name": "ProMedica Charles and Virginia Hickman Hospital, 5640, North Adrian Highway, Birdsall, Adrian Township, Lenawee County, Michigan, 49221, United States",
+        "place_id": 324327936
+    },
+    "Dorchester South Carolina": {
+        "display_name": "Dorchester County, South Carolina, United States",
+        "place_id": 299017613
+    },
+    "Chippewa Wisconsin": {
+        "display_name": "Chippewa County, Wisconsin, United States",
+        "place_id": 326509050
+    },
+    "Boundary Idaho": {
+        "display_name": "Boundary County, Idaho, United States",
+        "place_id": 329907992
+    },
+    "Gadsden Florida": {
+        "display_name": "Gadsden County, Florida, United States",
+        "place_id": 261901326
+    },
+    "Carroll Georgia": {
+        "display_name": "Carroll County, Georgia, United States",
+        "place_id": 296959020
+    },
+    "Powhatan Virginia": {
+        "display_name": "Powhatan County, Virginia, United States",
+        "place_id": 301220928
+    },
+    "Monroe West Virginia": {
+        "display_name": "Monroe County, West Virginia, United States",
+        "place_id": 296692186
+    },
+    "Florence South Carolina": {
+        "display_name": "Florence, Florence County, South Carolina, United States",
+        "place_id": 298458117
+    },
+    "Clay Kansas": {
+        "display_name": "Clay County, Kansas, United States",
+        "place_id": 286732979
+    },
+    "Dallas Alabama": {
+        "display_name": "Dallas County, Alabama, United States",
+        "place_id": 298691059
+    },
+    "Reno Kansas": {
+        "display_name": "Reno County, Kansas, United States",
+        "place_id": 287583522
+    },
+    "Sawyer Wisconsin": {
+        "display_name": "Sawyer County, Wisconsin, United States",
+        "place_id": 325633615
+    },
+    "Caledonia Vermont": {
+        "display_name": "Caledonia County, Vermont, United States",
+        "place_id": 319424888
+    },
+    "Cottle Texas": {
+        "display_name": "Cottle County, Texas, United States",
+        "place_id": 291028169
+    },
+    "Perry Missouri": {
+        "display_name": "Perry County, Missouri, United States",
+        "place_id": 294406374
+    },
+    "Effingham Georgia": {
+        "display_name": "Effingham County, Georgia, United States",
+        "place_id": 297575869
+    },
+    "San Jacinto Texas": {
+        "display_name": "San Jacinto County, Texas, United States",
+        "place_id": 262296040
+    },
+    "Lancaster South Carolina": {
+        "display_name": "Lancaster County, South Carolina, United States",
+        "place_id": 327813206
+    },
+    "Twiggs Georgia": {
+        "display_name": "Twiggs County, Georgia, United States",
+        "place_id": 459469
+    },
+    "Lafayette Mississippi": {
+        "display_name": "Lafayette County, Mississippi, United States",
+        "place_id": 322388584
+    },
+    "Queen Anne's Maryland": {
+        "display_name": "Queen Anne's County, Maryland, United States",
+        "place_id": 5246397
+    },
+    "Lyon Kansas": {
+        "display_name": "Lyon County, Kansas, United States",
+        "place_id": 318499458
+    },
+    "Buchanan Missouri": {
+        "display_name": "Buchanan County, Missouri, United States",
+        "place_id": 322744045
+    },
+    "Merrick Nebraska": {
+        "display_name": "Merrick County, Nebraska, United States",
+        "place_id": 315485120
+    },
+    "Nassau New York": {
+        "display_name": "Nassau County, New York, United States",
+        "place_id": 16017734
+    },
+    "Calloway Kentucky": {
+        "display_name": "Calloway County, Kentucky, United States",
+        "place_id": 322818980
+    },
+    "McNairy Tennessee": {
+        "display_name": "McNairy County, West Tennessee, Tennessee, United States",
+        "place_id": 321502631
+    },
+    "McDonald Missouri": {
+        "display_name": "McDonald County, Missouri, United States",
+        "place_id": 320818856
+    },
+    "Wells North Dakota": {
+        "display_name": "Wells County, North Dakota, United States",
+        "place_id": 317554939
+    },
+    "Catawba North Carolina": {
+        "display_name": "Catawba County, North Carolina, United States",
+        "place_id": 328595547
+    },
+    "Roane West Virginia": {
+        "display_name": "Roane County, West Virginia, United States",
+        "place_id": 325288739
+    },
+    "Greene Arkansas": {
+        "display_name": "Greene County, Arkansas, United States",
+        "place_id": 323206212
+    },
+    "Campbell South Dakota": {
+        "display_name": "Campbell County, South Dakota, United States",
+        "place_id": 316996901
+    },
+    "Gosper Nebraska": {
+        "display_name": "Gosper County, Nebraska, United States",
+        "place_id": 316463715
+    },
+    "Wayne Iowa": {
+        "display_name": "Wayne County, Iowa, United States",
+        "place_id": 28270611
+    },
+    "Madison Florida": {
+        "display_name": "Madison County, Florida, United States",
+        "place_id": 291299084
+    },
+    "Buffalo South Dakota": {
+        "display_name": "Buffalo County, South Dakota, United States",
+        "place_id": 317903470
+    },
+    "O'Brien Iowa": {
+        "display_name": "O'Brien County, Iowa, United States",
+        "place_id": 28478265
+    },
+    "Winston Mississippi": {
+        "display_name": "Winston County, Mississippi, United States",
+        "place_id": 320956151
+    },
+    "Rooks Kansas": {
+        "display_name": "Rooks County, Kansas, United States",
+        "place_id": 317184276
+    },
+    "Faulkner Arkansas": {
+        "display_name": "Faulkner County, Arkansas, United States",
+        "place_id": 321626399
+    },
+    "Austin Texas": {
+        "display_name": "Austin, Travis County, Texas, United States",
+        "place_id": 304326708
+    },
+    "Licking Ohio": {
+        "display_name": "Licking County, Ohio, United States",
+        "place_id": 25185506
+    },
+    "White Tennessee": {
+        "display_name": "White County, Middle Tennessee, Tennessee, United States",
+        "place_id": 327484660
+    },
+    "Stone Arkansas": {
+        "display_name": "Stone County, Arkansas, United States",
+        "place_id": 322055815
+    },
+    "Hocking Ohio": {
+        "display_name": "Hocking County, Ohio, United States",
+        "place_id": 388431116
+    },
+    "Dorchester Maryland": {
+        "display_name": "Dorchester County, Maryland, United States",
+        "place_id": 3795777
+    },
+    "San Bernardino California": {
+        "display_name": "San Bernardino County, California, United States",
+        "place_id": 308154738
+    },
+    "Broadwater Montana": {
+        "display_name": "Broadwater County, Montana, United States",
+        "place_id": 316507998
+    },
+    "Caroline Virginia": {
+        "display_name": "Caroline County, Virginia, United States",
+        "place_id": 3791366
+    },
+    "Brunswick Virginia": {
+        "display_name": "Brunswick County, Virginia, United States",
+        "place_id": 3324701
+    },
+    "Grant Indiana": {
+        "display_name": "Grant County, Indiana, United States",
+        "place_id": 25681062
+    },
+    "Okmulgee Oklahoma": {
+        "display_name": "Okmulgee County, Oklahoma, United States",
+        "place_id": 321316334
+    },
+    "Rowan North Carolina": {
+        "display_name": "Rowan County, North Carolina, United States",
+        "place_id": 328433245
+    },
+    "Larimer Colorado": {
+        "display_name": "Larimer County, Colorado, United States",
+        "place_id": 377025032
+    },
+    "Pike Pennsylvania": {
+        "display_name": "Pike County, Pennsylvania, United States",
+        "place_id": 13114526
+    },
+    "Gilchrist Florida": {
+        "display_name": "Gilchrist County, Florida, United States",
+        "place_id": 293462458
+    },
+    "Magoffin Kentucky": {
+        "display_name": "Magoffin County, Kentucky, United States",
+        "place_id": 328430500
+    },
+    "Richland Ohio": {
+        "display_name": "Richland County, Ohio, United States",
+        "place_id": 25172362
+    },
+    "Titus Texas": {
+        "display_name": "Titus County, Texas, United States",
+        "place_id": 321208215
+    },
+    "Parker Texas": {
+        "display_name": "Parker County, Texas, United States",
+        "place_id": 320322577
+    },
+    "Jackson Ohio": {
+        "display_name": "Jackson County, Ohio, United States",
+        "place_id": 325797540
+    },
+    "Thayer Nebraska": {
+        "display_name": "Thayer County, Nebraska, United States",
+        "place_id": 316350916
+    },
+    "Oceana Michigan": {
+        "display_name": "Oceana County, Michigan, United States",
+        "place_id": 27016574
+    },
+    "Calhoun Florida": {
+        "display_name": "Calhoun County, Florida, United States",
+        "place_id": 293533422
+    },
+    "Blount Alabama": {
+        "display_name": "Blount County, Alabama, United States",
+        "place_id": 328383103
+    },
+    "Potter South Dakota": {
+        "display_name": "Potter County, South Dakota, United States",
+        "place_id": 319858728
+    },
+    "Rio Blanco Colorado": {
+        "display_name": "Rio Blanco County, Colorado, United States",
+        "place_id": 316969898
+    },
+    "Laclede Missouri": {
+        "display_name": "Laclede County, Missouri, United States",
+        "place_id": 322713770
+    },
+    "Craig Oklahoma": {
+        "display_name": "Craig County, Oklahoma, United States",
+        "place_id": 321004874
+    },
+    "Izard Arkansas": {
+        "display_name": "Izard County, Arkansas, United States",
+        "place_id": 323409459
+    },
+    "Johnson Indiana": {
+        "display_name": "Johnson County, Indiana, United States",
+        "place_id": 324824730
+    },
+    "Martin Kentucky": {
+        "display_name": "Martin County, Kentucky, United States",
+        "place_id": 325982911
+    },
+    "Boone Illinois": {
+        "display_name": "Boone County, Illinois, United States",
+        "place_id": 29660901
+    },
+    "Marion Iowa": {
+        "display_name": "Marion County, Iowa, United States",
+        "place_id": 28250457
+    },
+    "Doddridge West Virginia": {
+        "display_name": "Doddridge County, West Virginia, United States",
+        "place_id": 324964881
+    },
+    "Tift Georgia": {
+        "display_name": "Tift County, Georgia, United States",
+        "place_id": 291038242
+    },
+    "Reeves Texas": {
+        "display_name": "Reeves County, Texas, United States",
+        "place_id": 307050577
+    },
+    "Walker Alabama": {
+        "display_name": "Walker County, Alabama, United States",
+        "place_id": 234057
+    },
+    "San Benito California": {
+        "display_name": "San Benito County, California, United States",
+        "place_id": 310530767
+    },
+    "Motley Texas": {
+        "display_name": "Motley County, Texas, United States",
+        "place_id": 319120943
+    },
+    "Berks Pennsylvania": {
+        "display_name": "Berks County, Pennsylvania, United States",
+        "place_id": 14025098
+    },
+    "Holmes Mississippi": {
+        "display_name": "Holmes County, Mississippi, United States",
+        "place_id": 321733166
+    },
+    "Susquehanna Pennsylvania": {
+        "display_name": "Susquehanna Depot, Susquehanna County, Pennsylvania, United States",
+        "place_id": 13103655
+    },
+    "Eagle Colorado": {
+        "display_name": "Eagle County, Colorado, United States",
+        "place_id": 319150314
+    },
+    "Lynn Texas": {
+        "display_name": "Lynn County, Texas, United States",
+        "place_id": 320771546
+    },
+    "Granite Montana": {
+        "display_name": "Granite County, Montana, United States",
+        "place_id": 314364719
+    },
+    "Essex Virginia": {
+        "display_name": "Essex County, Virginia, United States",
+        "place_id": 2118099
+    },
+    "Lawrence Missouri": {
+        "display_name": "Lawrence County, Missouri, United States",
+        "place_id": 322202138
+    },
+    "Trimble Kentucky": {
+        "display_name": "Trimble County, Kentucky, United States",
+        "place_id": 324072689
+    },
+    "Sandusky Ohio": {
+        "display_name": "Sandusky County, Ohio, United States",
+        "place_id": 25279947
+    },
+    "Camas Idaho": {
+        "display_name": "Camas County, Idaho, United States",
+        "place_id": 324050281
+    },
+    "Daviess Indiana": {
+        "display_name": "Daviess County, Indiana, United States",
+        "place_id": 323603766
+    },
+    "Navajo Arizona": {
+        "display_name": "Navajo County, Arizona, United States",
+        "place_id": 318189894
+    },
+    "Anne Arundel Maryland": {
+        "display_name": "Anne Arundel County, Maryland, United States",
+        "place_id": 3915301
+    },
+    "La Plata Colorado": {
+        "display_name": "La Plata County, Colorado, United States",
+        "place_id": 319297095
+    },
+    "Eddy New Mexico": {
+        "display_name": "Eddy County, New Mexico, United States",
+        "place_id": 318712170
+    },
+    "Jefferson Texas": {
+        "display_name": "Jefferson County, Texas, United States",
+        "place_id": 295335390
+    },
+    "Franklin Texas": {
+        "display_name": "Franklin County, Texas, United States",
+        "place_id": 320247910
+    },
+    "Marion Texas": {
+        "display_name": "Marion County, Texas, United States",
+        "place_id": 320031881
+    },
+    "Petersburg Alaska": {
+        "display_name": "Petersburg, Petersburg Borough, Alaska, 99833, United States",
+        "place_id": 32611140
+    },
+    "Fayette Illinois": {
+        "display_name": "Fayette County, Illinois, United States",
+        "place_id": 324174274
+    },
+    "Todd Minnesota": {
+        "display_name": "Todd County, Minnesota, United States",
+        "place_id": 29449127
+    },
+    "Williamsburg Virginia": {
+        "display_name": "Williamsburg, Williamsburg (city), Virginia, United States",
+        "place_id": 2785339
+    },
+    "Holmes Florida": {
+        "display_name": "Holmes County, Florida, United States",
+        "place_id": 292979500
+    },
+    "Sherman Nebraska": {
+        "display_name": "Sherman County, Nebraska, United States",
+        "place_id": 315734396
+    },
+    "Lafayette Missouri": {
+        "display_name": "Lafayette County, Missouri, United States",
+        "place_id": 322049019
+    },
+    "Steele Minnesota": {
+        "display_name": "Steele County, Minnesota, United States",
+        "place_id": 29067491
+    },
+    "Jackson North Carolina": {
+        "display_name": "Jackson County, North Carolina, United States",
+        "place_id": 327266805
+    },
+    "Dale Alabama": {
+        "display_name": "Dale County, Alabama, United States",
+        "place_id": 292800008
+    },
+    "Mercer North Dakota": {
+        "display_name": "Mercer County, North Dakota, United States",
+        "place_id": 316473384
+    },
+    "Orleans (New Orleans) Louisiana": {
+        "display_name": "New Orleans, Orleans Parish, Louisiana, United States",
+        "place_id": 294029191
+    },
+    "Sanilac Michigan": {
+        "display_name": "Sanilac County, Michigan, United States",
+        "place_id": 388408287
+    },
+    "Wexford Michigan": {
+        "display_name": "Wexford County, Michigan, United States",
+        "place_id": 23557868
+    },
+    "Greene Georgia": {
+        "display_name": "Greene County, Georgia, United States",
+        "place_id": 607209
+    },
+    "Jefferson Louisiana": {
+        "display_name": "Jefferson Parish, Louisiana, United States",
+        "place_id": 295237154
+    },
+    "Okeechobee Florida": {
+        "display_name": "Okeechobee County, Florida, United States",
+        "place_id": 293825190
+    },
+    "Centre Pennsylvania": {
+        "display_name": "Centre County, Pennsylvania, United States",
+        "place_id": 6426538
+    },
+    "Mercer West Virginia": {
+        "display_name": "Mercer County, West Virginia, United States",
+        "place_id": 326358015
+    },
+    "Moody South Dakota": {
+        "display_name": "Moody County, South Dakota, United States",
+        "place_id": 316358981
+    },
+    "Petroleum Montana": {
+        "display_name": "Petroleum County, Montana, United States",
+        "place_id": 316482087
+    },
+    "Emanuel Georgia": {
+        "display_name": "Emanuel County, Georgia, United States",
+        "place_id": 452618
+    },
+    "Marshall Kansas": {
+        "display_name": "Marshall County, Kansas, United States",
+        "place_id": 316342242
+    },
+    "Carson Texas": {
+        "display_name": "Carson County, Texas, United States",
+        "place_id": 318837789
+    },
+    "Caldwell Missouri": {
+        "display_name": "Caldwell County, Missouri, United States",
+        "place_id": 321907751
+    },
+    "Starr Texas": {
+        "display_name": "Starr County, Texas, United States",
+        "place_id": 303393578
+    },
+    "Saunders Nebraska": {
+        "display_name": "Saunders County, Nebraska, United States",
+        "place_id": 317047721
+    },
+    "Pulaski Kentucky": {
+        "display_name": "Pulaski County, Kentucky, United States",
+        "place_id": 324448052
+    },
+    "Ouachita Louisiana": {
+        "display_name": "Ouachita Parish, Louisiana, United States",
+        "place_id": 321178521
+    },
+    "Dunklin Missouri": {
+        "display_name": "Dunklin County, Missouri, United States",
+        "place_id": 322868696
+    },
+    "Navarro Texas": {
+        "display_name": "Navarro County, Texas, United States",
+        "place_id": 321602271
+    },
+    "Nicholas West Virginia": {
+        "display_name": "Nicholas County, West Virginia, United States",
+        "place_id": 325321698
+    },
+    "Mineral Nevada": {
+        "display_name": "Mineral County, Nevada, United States",
+        "place_id": 309193540
+    },
+    "Robertson Texas": {
+        "display_name": "Robertson County, Texas, United States",
+        "place_id": 274708738
+    },
+    "Washington Utah": {
+        "display_name": "Washington County, Utah, United States",
+        "place_id": 377023806
+    },
+    "Winnebago Iowa": {
+        "display_name": "Winnebago County, Iowa, United States",
+        "place_id": 28437554
+    },
+    "Knox Illinois": {
+        "display_name": "Knox County, Illinois, United States",
+        "place_id": 28009121
+    },
+    "Blaine Idaho": {
+        "display_name": "Blaine County, Idaho, United States",
+        "place_id": 316431850
+    },
+    "Cherokee North Carolina": {
+        "display_name": "Cherokee County, North Carolina, United States",
+        "place_id": 326852778
+    },
+    "Roger Mills Oklahoma": {
+        "display_name": "Roger Mills County, Oklahoma, United States",
+        "place_id": 318381807
+    },
+    "Philadelphia Pennsylvania": {
+        "display_name": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "place_id": 14222125
+    },
+    "Lincoln Oklahoma": {
+        "display_name": "Lincoln County, Oklahoma, United States",
+        "place_id": 322975116
+    },
+    "Sequatchie Tennessee": {
+        "display_name": "Sequatchie County, Middle Tennessee, Tennessee, 37327, United States",
+        "place_id": 327516704
+    },
+    "Union Kentucky": {
+        "display_name": "Union County, Kentucky, United States",
+        "place_id": 324813030
+    },
+    "Kinney Texas": {
+        "display_name": "Kinney County, Texas, 78832, United States",
+        "place_id": 305921981
+    },
+    "Alfalfa Oklahoma": {
+        "display_name": "Alfalfa County, Oklahoma, United States",
+        "place_id": 316557764
+    },
+    "Whitman Washington": {
+        "display_name": "Whitman County, Washington, United States",
+        "place_id": 323915754
+    },
+    "Norton Virginia": {
+        "display_name": "Norton, Virginia, 24273, United States",
+        "place_id": 326951814
+    },
+    "Aleutians West Alaska": {
+        "display_name": "Aleutians West Census Area, Alaska, United States",
+        "place_id": 172604961
+    },
+    "Lake California": {
+        "display_name": "Lake County, California, United States",
+        "place_id": 310032054
+    },
+    "Mariposa California": {
+        "display_name": "Mariposa County, California, United States",
+        "place_id": 309527204
+    },
+    "Clark Missouri": {
+        "display_name": "Clark County, Missouri, United States",
+        "place_id": 28088980
+    },
+    "Richland Louisiana": {
+        "display_name": "Richland Parish, Louisiana, United States",
+        "place_id": 321931566
+    },
+    "Mitchell Georgia": {
+        "display_name": "Mitchell, Glascock County, Georgia, United States",
+        "place_id": 633257
+    },
+    "Reynolds Missouri": {
+        "display_name": "Reynolds County, Missouri, United States",
+        "place_id": 324561874
+    },
+    "Oconee Georgia": {
+        "display_name": "Oconee County, Georgia, United States",
+        "place_id": 530051
+    },
+    "Stark North Dakota": {
+        "display_name": "Stark County, North Dakota, United States",
+        "place_id": 317576422
+    },
+    "Lincoln Idaho": {
+        "display_name": "Lincoln County, Idaho, United States",
+        "place_id": 314436305
+    },
+    "Adams Wisconsin": {
+        "display_name": "Adams County, Wisconsin, United States",
+        "place_id": 27373971
+    },
+    "Lincoln Kansas": {
+        "display_name": "Lincoln County, Kansas, United States",
+        "place_id": 316254780
+    },
+    "Chicot Arkansas": {
+        "display_name": "Chicot County, Arkansas, United States",
+        "place_id": 320810783
+    },
+    "Sanders Montana": {
+        "display_name": "Sanders County, Montana, United States",
+        "place_id": 315933539
+    },
+    "Long Georgia": {
+        "display_name": "Long County, Georgia, 31316, United States",
+        "place_id": 290541583
+    },
+    "Warren Missouri": {
+        "display_name": "Warren County, Missouri, United States",
+        "place_id": 323381708
+    },
+    "Box Butte Nebraska": {
+        "display_name": "Box Butte County, Nebraska, United States",
+        "place_id": 315783261
+    },
+    "Mercer Illinois": {
+        "display_name": "Mercer County, Illinois, United States",
+        "place_id": 28075218
+    },
+    "York Virginia": {
+        "display_name": "York County, Virginia, United States",
+        "place_id": 2798725
+    },
+    "Henderson Tennessee": {
+        "display_name": "Henderson County, West Tennessee, Tennessee, United States",
+        "place_id": 320862160
+    },
+    "Utah Utah": {
+        "display_name": "Utah County, Utah, United States",
+        "place_id": 315025879
+    },
+    "Buckingham Virginia": {
+        "display_name": "Buckingham County, Virginia, United States",
+        "place_id": 3583787
+    },
+    "Minidoka Idaho": {
+        "display_name": "Minidoka County, Idaho, United States",
+        "place_id": 314667024
     }
 }
