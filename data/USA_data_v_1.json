@@ -2243,9 +2243,9 @@
         "display_name": "Franklin County, Middle Tennessee, Tennessee, United States",
         "place_id": 327025849
     },
-    "Chugach Valdez-Cordova Alaska": {
-        "display_name": "Not found",
-        "place_id": "Not found"
+    "Valdez-Cordova (CA), Alaska": {
+        "display_name": "Valdez-Cordova (CA), Alaska, United States",
+        "place_id": 32627289
     },
     "Indian River Florida": {
         "display_name": "Indian River County, Florida, United States",
@@ -2299,9 +2299,9 @@
         "display_name": "Taliaferro County, Georgia, United States",
         "place_id": 528016
     },
-    "District of Columbia (Washington, D.C.) Delaware": {
-        "display_name": "Not found",
-        "place_id": "Not found"
+    "Washington, D.C. Delaware": {
+        "display_name": "Washington, District of Columbia, United States",
+        "place_id": 4278528
     },
     "Jefferson Kansas": {
         "display_name": "Jefferson County, Kansas, United States",
@@ -4483,9 +4483,9 @@
         "display_name": "Door County, Wisconsin, United States",
         "place_id": 23522617
     },
-    "Bedford (incl. Bedford city) Virginia": {
-        "display_name": "Not found",
-        "place_id": "Not found"
+    "Bedford County, Virginia": {
+        "display_name": "Bedford County, Virginia, United States",
+        "place_id": 3509396
     },
     "Wayne North Carolina": {
         "display_name": "Wayne County, North Carolina, United States",
@@ -6055,9 +6055,9 @@
         "display_name": "Shelby County, West Tennessee, Tennessee, United States",
         "place_id": 328494440
     },
-    "District of Columbia (DC) Delaware": {
-        "display_name": "Not found",
-        "place_id": "Not found"
+    "District of Columbia": {
+        "display_name": "District of Columbia, United States",
+        "place_id": 4283377
     },
     "Lyon Iowa": {
         "display_name": "Lyon County, Iowa, United States",
@@ -6331,9 +6331,9 @@
         "display_name": "Jay County, Indiana, United States",
         "place_id": 26394662
     },
-    "Alleghany (incl. Clifton Forge) Virginia": {
-        "display_name": "Not found",
-        "place_id": "Not found"
+    "Alleghany County, North Carolina": {
+        "display_name": "Alleghany County, North Carolina, United States",
+        "place_id": 325903199
     },
     "Iberia Louisiana": {
         "display_name": "Iberia Parish, Louisiana, United States",
@@ -6352,8 +6352,8 @@
         "place_id": 390170631
     },
     "Northwest Hills Connecticut": {
-        "display_name": "Schaeffler Aerospace USA Inc., Colebrook River Road, Winchester, Northwest Hills Planning Region, Connecticut, 06065, United States",
-        "place_id": 12894035
+        "display_name": "Northwest Hills Planning Region, Connecticut, United States",
+        "place_id": 311049565
     },
     "Newton Georgia": {
         "display_name": "Newton County, Georgia, United States",
@@ -11326,10 +11326,6 @@
     "Summers West Virginia": {
         "display_name": "Summers County, West Virginia, United States",
         "place_id": 296006806
-    },
-    "Copper River (← Valdez-Cordova) Alaska": {
-        "display_name": "Not found",
-        "place_id": "Not found"
     },
     "Camp Texas": {
         "display_name": "Camp County, Texas, United States",

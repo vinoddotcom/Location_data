@@ -5,12 +5,13 @@ import os
 import re
 
 # List of cities to query
-cities = list(set(["Agrigento", "Alessandria", "Ancona", "Aosta", "Arezzo", "Ascoli Piceno", "Asti", "Avellino", "Bari", "Barletta-Andria-Trani", "Belluno", "Benevento", "Bergamo", "Biella", "Bologna", "Bolzano", "Brescia", "Brindisi", "Cagliari", "Caltanissetta", "Campobasso", "Carbonia-Iglesias", "Caserta", "Catania", "Catanzaro", "Chieti", "Como", "Cosenza", "Cremona", "Crotone", "Cuneo", "Enna", "Fermo", "Ferrara", "Florence", "Firenze", "Foggia", "Forlì-Cesena", "Frosinone", "Genoa", "Genova", "Gorizia", "Grosseto", "Imperia", "Isernia", "La Spezia", "L'Aquila", "Latina", "Lecce", "Lecco", "Livorno", "Lodi", "Lucca", "Macerata", "Mantua", "Mantova", "Massa and Carrara", "Massa-Carrara", "Matera", "Medio Campidano", "Messina", "Milan", "Milano", "Modena", "Monza and Brianza", "Monza e della Brianza", "Naples", "Napoli", "Novara", "Nuoro", "Ogliastra", "Olbia-Tempio", "Oristano", "Padua", "Padova", "Palermo", "Parma", "Pavia", "Perugia", "Pesaro and Urbino", "Pesaro e Urbino", "Pescara", "Piacenza", "Pisa", "Pistoia", "Pordenone", "Potenza", "Prato", "Ragusa", "Ravenna", "Reggio Calabria", "Reggio di Calabria", "Reggio Emilia", "Reggio Nell'Emilia", "Rieti", "Rimini", "Rome", "Roma", "Rovigo", "Salerno", "Sassari", "Savona", "Siena", "Sondrio", "Syracuse", "Siracusa", "Taranto", "Teramo", "Terni", "Trapani", "Trento", "Treviso", "Trieste", "Turin", "Torino", "Udine", "Varese", "Venice", "Venezia", "Verbano-Cusio-Ossola", "Vercelli", "Verona", "Vibo Valentia", "Vicenza", "Viterbo"]))
+cities = list(set(["Antwerpen", "Mechelen", "Turnhout", "Brussel", "Halle", "Leuven", "Nijvel", "Brugge", "Diksmuide", "Ieper", "Kortrijk", "Oostende", "Roeselare", "Tielt", "Veurne", "Aalst", "Dendermonde", "Eeklo", "Gent", "Oudenaarde", "Sint", "Aat", "Charleroi", "Bergen", "Moeskroen", "Zinnik", "Thuin", "Doornik", "Hoei", "Luik", "Verviers", "Borgworm", "Hasselt", "Maaseik", "Tongeren", "Aarlen", "Bastenaken", "Marche", "Neufchâteau", "Virton", "Dinant", "Namen", "Philippeville"]))
+
 
 # Base URL for the Nominatim API
 base_url = "https://nominatim.openstreetmap.org/search?addressdetails=1&format=jsonv2&limit=1&addressdetails=1&extratags=1&accept-language=en"
 
-country_name = "Italy"
+country_name = "Belgium"
 
 # Checkpoint file to save progress
 checkpoint_file = f"{country_name}_data_checkpoint.json"
@@ -54,7 +55,7 @@ for city in cities:
     if city in results:
         print(f"Skipping {city} (already processed)")
         continue
-    
+
     time.sleep(1)
     city_data = get_city_data(city)
     if city_data:

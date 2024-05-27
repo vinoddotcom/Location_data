@@ -1,0 +1,870 @@
+{
+    "Essex, England": {
+        "display_name": "Essex, England, United Kingdom",
+        "place_id": 85524485
+    },
+    "Lancashire, England": {
+        "display_name": "Lancashire, England, United Kingdom",
+        "place_id": 241369294
+    },
+    "Hampshire, England": {
+        "display_name": "Hampshire, England, United Kingdom",
+        "place_id": 242744162
+    },
+    "South Ayrshire, Scotland": {
+        "display_name": "South Ayrshire, Scotland, United Kingdom",
+        "place_id": 270763781
+    },
+    "Torfaen, Wales": {
+        "display_name": "Torfaen, Wales, United Kingdom",
+        "place_id": 274799255
+    },
+    "Wolverhampton, England": {
+        "display_name": "Wolverhampton, West Midlands Combined Authority, England, United Kingdom",
+        "place_id": 270392030
+    },
+    "Hertfordshire, England": {
+        "display_name": "Hertfordshire, England, United Kingdom",
+        "place_id": 242039285
+    },
+    "Hammersmith and Fulham, England": {
+        "display_name": "London Borough of Hammersmith and Fulham, London, Greater London, England, United Kingdom",
+        "place_id": 273734334
+    },
+    "Worcestershire, England": {
+        "display_name": "Worcestershire, England, United Kingdom",
+        "place_id": 238649515
+    },
+    "Nottinghamshire, England": {
+        "display_name": "Nottinghamshire, England, United Kingdom",
+        "place_id": 239681561
+    },
+    "Cambridgeshire, England": {
+        "display_name": "Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
+        "place_id": 140856616
+    },
+    "Rutland, England": {
+        "display_name": "Rutland, England, United Kingdom",
+        "place_id": 272066361
+    },
+    "Surrey, England": {
+        "display_name": "Surrey, England, United Kingdom",
+        "place_id": 242338398
+    },
+    "Sheffield, England": {
+        "display_name": "Sheffield, South Yorkshire, England, United Kingdom",
+        "place_id": 271162755
+    },
+    "Gloucestershire, England": {
+        "display_name": "Gloucestershire, England, United Kingdom",
+        "place_id": 243356368
+    },
+    "East Ayrshire, Scotland": {
+        "display_name": "East Ayrshire, Scotland, United Kingdom",
+        "place_id": 269495187
+    },
+    "East Riding of Yorkshire, England": {
+        "display_name": "East Riding of Yorkshire, England, United Kingdom",
+        "place_id": 272635285
+    },
+    "Hillingdon, England": {
+        "display_name": "London Borough of Hillingdon, London, Greater London, England, United Kingdom",
+        "place_id": 273518345
+    },
+    "Flintshire, Wales": {
+        "display_name": "Flintshire, Wales, United Kingdom",
+        "place_id": 270290322
+    },
+    "Central Bedfordshire, England": {
+        "display_name": "Central Bedfordshire, England, United Kingdom",
+        "place_id": 274195197
+    },
+    "West Sussex, England": {
+        "display_name": "West Sussex, England, United Kingdom",
+        "place_id": 244269565
+    },
+    "Perth and Kinross, Scotland": {
+        "display_name": "Perth and Kinross, Scotland, United Kingdom",
+        "place_id": 268242412
+    },
+    "Kent, England": {
+        "display_name": "Kent, England, United Kingdom",
+        "place_id": 85230744
+    },
+    "Antrim and Newtownabbey, Northern Ireland": {
+        "display_name": "Antrim and Newtownabbey Borough Council, Carnmoney Road North, Carnmoney, Mossley, Newtownabbey, County Antrim, Northern Ireland, BT36 5QA, United Kingdom",
+        "place_id": 269700466
+    },
+    "Liverpool, England": {
+        "display_name": "Liverpool, Liverpool City Region, England, United Kingdom",
+        "place_id": 271544355
+    },
+    "Bexley, England": {
+        "display_name": "Bexley, London Borough of Bexley, London, Greater London, England, DA5 1LD, United Kingdom",
+        "place_id": 117267419
+    },
+    "Kirklees, England": {
+        "display_name": "Kirklees, West Yorkshire, England, United Kingdom",
+        "place_id": 271783164
+    },
+    "Monmouthshire, Wales": {
+        "display_name": "Monmouthshire, Wales, United Kingdom",
+        "place_id": 376765932
+    },
+    "Blackpool, England": {
+        "display_name": "Blackpool, Borough of Blackpool, England, FY1 1DL, United Kingdom",
+        "place_id": 270061456
+    },
+    "Leeds, England": {
+        "display_name": "Leeds, West Yorkshire, England, United Kingdom",
+        "place_id": 272013054
+    },
+    "Staffordshire, England": {
+        "display_name": "Staffordshire, England, United Kingdom",
+        "place_id": 238681212
+    },
+    "Somerset, England": {
+        "display_name": "Somerset, England, United Kingdom",
+        "place_id": 243382935
+    },
+    "Cumbria, England": {
+        "display_name": "Cumbria, England, United Kingdom",
+        "place_id": 236895812
+    },
+    "Neath Port Talbot, Wales": {
+        "display_name": "Neath Port Talbot, Wales, United Kingdom",
+        "place_id": 274495660
+    },
+    "Derbyshire, England": {
+        "display_name": "Derbyshire, England, United Kingdom",
+        "place_id": 239700234
+    },
+    "East Sussex, England": {
+        "display_name": "East Sussex, England, United Kingdom",
+        "place_id": 85156713
+    },
+    "City of London, England": {
+        "display_name": "City of London, Greater London, England, United Kingdom",
+        "place_id": 273135560
+    },
+    "Newham, England": {
+        "display_name": "London Borough of Newham, London, Greater London, England, United Kingdom",
+        "place_id": 117070838
+    },
+    "Vale of Glamorgan, Wales": {
+        "display_name": "Vale of Glamorgan, Wales, United Kingdom",
+        "place_id": 274689199
+    },
+    "North Yorkshire, England": {
+        "display_name": "North Yorkshire, England, United Kingdom",
+        "place_id": 239039017
+    },
+    "Ceredigion, Wales": {
+        "display_name": "Ceredigion, Wales, United Kingdom",
+        "place_id": 270196250
+    },
+    "Cardiff, Wales": {
+        "display_name": "Cardiff, Wales, CF10 2AF, United Kingdom",
+        "place_id": 275512916
+    },
+    "Kensington and Chelsea, England": {
+        "display_name": "Royal Borough of Kensington and Chelsea, London, Greater London, England, United Kingdom",
+        "place_id": 274987700
+    },
+    "Devon, England": {
+        "display_name": "Devon, England, United Kingdom",
+        "place_id": 243831102
+    },
+    "Lincolnshire, England": {
+        "display_name": "Lincolnshire, England, United Kingdom",
+        "place_id": 240871020
+    },
+    "Sutton, England": {
+        "display_name": "London Borough of Sutton, Greater London, England, United Kingdom",
+        "place_id": 273808192
+    },
+    "Redbridge, England": {
+        "display_name": "Redbridge, London Borough of Redbridge, London, Greater London, England, IG4 5DQ, United Kingdom",
+        "place_id": 117038612
+    },
+    "Clackmannanshire, Scotland": {
+        "display_name": "Clackmannanshire, Scotland, United Kingdom",
+        "place_id": 267908258
+    },
+    "Torbay, England": {
+        "display_name": "Torbay, England, United Kingdom",
+        "place_id": 275287023
+    },
+    "Warwickshire, England": {
+        "display_name": "Warwickshire, England, United Kingdom",
+        "place_id": 241293281
+    },
+    "Highland, Scotland": {
+        "display_name": "Highland, Scotland, United Kingdom",
+        "place_id": 267545125
+    },
+    "Falkirk, Scotland": {
+        "display_name": "Falkirk, Scotland, FK1 1ED, United Kingdom",
+        "place_id": 269350399
+    },
+    "Aberdeen City, Scotland": {
+        "display_name": "Aberdeen City, Scotland, United Kingdom",
+        "place_id": 267152422
+    },
+    "Dudley, England": {
+        "display_name": "Dudley, West Midlands Combined Authority, England, United Kingdom",
+        "place_id": 271676687
+    },
+    "Windsor and Maidenhead, England": {
+        "display_name": "Royal Borough of Windsor and Maidenhead, England, United Kingdom",
+        "place_id": 274124212
+    },
+    "Bristol, England": {
+        "display_name": "Bristol, City of Bristol, West of England, England, United Kingdom",
+        "place_id": 275277495
+    },
+    "Suffolk, England": {
+        "display_name": "Suffolk, England, United Kingdom",
+        "place_id": 140458039
+    },
+    "North Lanarkshire, Scotland": {
+        "display_name": "North Lanarkshire, Scotland, United Kingdom",
+        "place_id": 268792134
+    },
+    "Medway, England": {
+        "display_name": "Medway, England, United Kingdom",
+        "place_id": 116893637
+    },
+    "Glasgow City, Scotland": {
+        "display_name": "Glasgow City, Scotland, United Kingdom",
+        "place_id": 383888042
+    },
+    "Salford, England": {
+        "display_name": "Salford, Greater Manchester, England, United Kingdom",
+        "place_id": 271440355
+    },
+    "Wokingham, England": {
+        "display_name": "Borough of Wokingham, England, United Kingdom",
+        "place_id": 275093387
+    },
+    "County Durham, England": {
+        "display_name": "County Durham, North East, England, United Kingdom",
+        "place_id": 267847685
+    },
+    "Coventry, England": {
+        "display_name": "Coventry, West Midlands Combined Authority, England, United Kingdom",
+        "place_id": 272908234
+    },
+    "Norfolk, England": {
+        "display_name": "Norfolk, England, United Kingdom",
+        "place_id": 140563273
+    },
+    "Waltham Forest, England": {
+        "display_name": "London Borough of Waltham Forest, London, Greater London, England, United Kingdom",
+        "place_id": 273662391
+    },
+    "Sefton, England": {
+        "display_name": "Sefton, Liverpool City Region, England, United Kingdom",
+        "place_id": 270497443
+    },
+    "Isles of Scilly, England": {
+        "display_name": "Isles of Scilly, England, United Kingdom",
+        "place_id": 277114848
+    },
+    "Knowsley, England": {
+        "display_name": "Knowsley, Liverpool City Region, England, United Kingdom",
+        "place_id": 270812222
+    },
+    "Haringey, England": {
+        "display_name": "London Borough of Haringey, Greater London, England, United Kingdom",
+        "place_id": 244351645
+    },
+    "Luton, England": {
+        "display_name": "Luton, Borough of Luton, England, LU1 2YN, United Kingdom",
+        "place_id": 244261628
+    },
+    "Lambeth, England": {
+        "display_name": "Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7JW, United Kingdom",
+        "place_id": 244700309
+    },
+    "Bradford, England": {
+        "display_name": "Bradford, West Yorkshire, England, United Kingdom",
+        "place_id": 241965145
+    },
+    "Greenwich, England": {
+        "display_name": "Royal Borough of Greenwich, London, Greater London, England, United Kingdom",
+        "place_id": 85557004
+    },
+    "Newport, Wales": {
+        "display_name": "Newport, Gwent, Wales, United Kingdom",
+        "place_id": 245705272
+    },
+    "Halton, England": {
+        "display_name": "Halton, Liverpool City Region, England, United Kingdom",
+        "place_id": 242224459
+    },
+    "West Dunbartonshire, Scotland": {
+        "display_name": "West Dunbartonshire, Scotland, United Kingdom",
+        "place_id": 240293155
+    },
+    "Oxfordshire, England": {
+        "display_name": "Oxfordshire, England, United Kingdom",
+        "place_id": 243109781
+    },
+    "Leicestershire, England": {
+        "display_name": "Leicestershire, England, United Kingdom",
+        "place_id": 240884263
+    },
+    "Stockton-on-Tees, England": {
+        "display_name": "Stockton-on-Tees, Tees Valley, England, United Kingdom",
+        "place_id": 239097352
+    },
+    "Caerphilly, Wales": {
+        "display_name": "Caerphilly County Borough, Wales, United Kingdom",
+        "place_id": 246097188
+    },
+    "Southwark, England": {
+        "display_name": "Southwark, London Borough of Southwark, London, Greater London, England, SE1 1AN, United Kingdom",
+        "place_id": 243935269
+    },
+    "Portsmouth, England": {
+        "display_name": "Portsmouth, England, United Kingdom",
+        "place_id": 245166356
+    },
+    "North Tyneside, England": {
+        "display_name": "North Tyneside, North of Tyne, England, United Kingdom",
+        "place_id": 239258716
+    },
+    "Shetland Islands, Scotland": {
+        "display_name": "Shetland, Scotland, United Kingdom",
+        "place_id": 238562867
+    },
+    "Bridgend, Wales": {
+        "display_name": "Bridgend, Bridgend County Borough, Wales, CF31 1DD, United Kingdom",
+        "place_id": 243995962
+    },
+    "South Lanarkshire, Scotland": {
+        "display_name": "South Lanarkshire, Scotland, United Kingdom",
+        "place_id": 240124960
+    },
+    "Derby, England": {
+        "display_name": "Derby, Derbyshire, England, DE1 2AA, United Kingdom",
+        "place_id": 242984206
+    },
+    "Blaenau Gwent, Wales": {
+        "display_name": "Blaenau Gwent, Wales, United Kingdom",
+        "place_id": 245532374
+    },
+    "Lisburn and Castlereagh, Northern Ireland": {
+        "display_name": "Not found",
+        "place_id": "Not found"
+    },
+    "Barking and Dagenham, England": {
+        "display_name": "London Borough of Barking and Dagenham, London, Greater London, England, United Kingdom",
+        "place_id": 85743668
+    },
+    "Southend-on-Sea, England": {
+        "display_name": "Southend-on-Sea, England, United Kingdom",
+        "place_id": 84660060
+    },
+    "Merton, England": {
+        "display_name": "London Borough of Merton, Greater London, England, United Kingdom",
+        "place_id": 244752277
+    },
+    "Wandsworth, England": {
+        "display_name": "Wandsworth, Greater London, England, SW18 1UJ, United Kingdom",
+        "place_id": 244931693
+    },
+    "Aberdeenshire, Scotland": {
+        "display_name": "Aberdeenshire, Scotland, United Kingdom",
+        "place_id": 238890762
+    },
+    "Swindon, England": {
+        "display_name": "Swindon, England, SN1 1JZ, United Kingdom",
+        "place_id": 245207020
+    },
+    "Wirral, England": {
+        "display_name": "Wirral, Liverpool City Region, England, United Kingdom",
+        "place_id": 240010474
+    },
+    "Sunderland, England": {
+        "display_name": "Sunderland, North East, England, United Kingdom",
+        "place_id": 238919512
+    },
+    "Carmarthenshire, Wales": {
+        "display_name": "Carmarthenshire, Wales, United Kingdom",
+        "place_id": 246395281
+    },
+    "Islington, England": {
+        "display_name": "Islington, Greater London, England, N1 2SJ, United Kingdom",
+        "place_id": 245033347
+    },
+    "Armagh City, Northern Ireland": {
+        "display_name": "Armagh, County Armagh, Northern Ireland, BT61 7DJ, United Kingdom",
+        "place_id": 239729514
+    },
+    "Middlesbrough, England": {
+        "display_name": "Middlesbrough, Tees Valley, England, United Kingdom",
+        "place_id": 239612892
+    },
+    "Richmond upon Thames, England": {
+        "display_name": "London Borough of Richmond upon Thames, Greater London, England, United Kingdom",
+        "place_id": 243102017
+    },
+    "Milton Keynes, England": {
+        "display_name": "Milton Keynes, City of Milton Keynes, England, United Kingdom",
+        "place_id": 242054233
+    },
+    "Midlothian, Scotland": {
+        "display_name": "Midlothian, Scotland, United Kingdom",
+        "place_id": 238022607
+    },
+    "Scottish Borders, Scotland": {
+        "display_name": "Scottish Borders, Scotland, United Kingdom",
+        "place_id": 239070476
+    },
+    "Northumberland, England": {
+        "display_name": "Northumberland, North of Tyne, England, United Kingdom",
+        "place_id": 239521933
+    },
+    "Brent, England": {
+        "display_name": "London Borough of Brent, London, Greater London, England, United Kingdom",
+        "place_id": 244009411
+    },
+    "Denbighshire, Wales": {
+        "display_name": "Denbighshire, Wales, United Kingdom",
+        "place_id": 241844173
+    },
+    "Oldham, England": {
+        "display_name": "Oldham, Greater Manchester, England, United Kingdom",
+        "place_id": 240105070
+    },
+    "Belfast, Northern Ireland": {
+        "display_name": "Belfast, County Antrim, Northern Ireland, United Kingdom",
+        "place_id": 371569894
+    },
+    "Reading, England": {
+        "display_name": "Reading, England, United Kingdom",
+        "place_id": 386901033
+    },
+    "Isle of Anglesey, Wales": {
+        "display_name": "Isle of Anglesey, Wales, LL77 7YR, United Kingdom",
+        "place_id": 239503229
+    },
+    "Blackburn with Darwen, England": {
+        "display_name": "Blackburn with Darwen, England, United Kingdom",
+        "place_id": 240647920
+    },
+    "Dorset, England": {
+        "display_name": "Dorset, England, United Kingdom",
+        "place_id": 246077653
+    },
+    "York, England": {
+        "display_name": "York, England, YO1 8RS, United Kingdom",
+        "place_id": 240478822
+    },
+    "Camden, England": {
+        "display_name": "London Borough of Camden, London, Greater London, England, United Kingdom",
+        "place_id": 244342918
+    },
+    "Stirling, Scotland": {
+        "display_name": "Stirling, Stirlingshire, Scotland, FK8 2DD, United Kingdom",
+        "place_id": 238157380
+    },
+    "Birmingham, England": {
+        "display_name": "Birmingham, West Midlands Combined Authority, England, United Kingdom",
+        "place_id": 243595575
+    },
+    "Telford and Wrekin, England": {
+        "display_name": "Telford and Wrekin, England, United Kingdom",
+        "place_id": 239097814
+    },
+    "St. Helens, England": {
+        "display_name": "St Helens, Liverpool City Region, England, United Kingdom",
+        "place_id": 241871121
+    },
+    "Bolton, England": {
+        "display_name": "Bolton, Greater Manchester, England, United Kingdom",
+        "place_id": 240749804
+    },
+    "Wrexham, Wales": {
+        "display_name": "Wrexham, Wales, LL11 1AP, United Kingdom",
+        "place_id": 242318645
+    },
+    "Na h-Eileanan Siar, Scotland": {
+        "display_name": "Western Isles, Scotland, United Kingdom",
+        "place_id": 236457774
+    },
+    "Enfield, England": {
+        "display_name": "Enfield, London, Greater London, England, EN2 6LD, United Kingdom",
+        "place_id": 242329323
+    },
+    "Fife, Scotland": {
+        "display_name": "Fife, Scotland, United Kingdom",
+        "place_id": 238278245
+    },
+    "Walsall, England": {
+        "display_name": "Walsall, West Midlands Combined Authority, England, United Kingdom",
+        "place_id": 242769381
+    },
+    "North East Lincolnshire, England": {
+        "display_name": "North East Lincolnshire, England, United Kingdom",
+        "place_id": 242974750
+    },
+    "Isle of Wight, England": {
+        "display_name": "Isle of Wight, England, United Kingdom",
+        "place_id": 246518329
+    },
+    "Ards and North Down, Northern Ireland": {
+        "display_name": "North Down and Ards Wastewater Treatment Works, 43, High Bangor Road, Donaghadee, County Down, Northern Ireland, BT21 0PB, United Kingdom",
+        "place_id": 240370266
+    },
+    "South Gloucestershire, England": {
+        "display_name": "South Gloucestershire, West of England, England, United Kingdom",
+        "place_id": 245598881
+    },
+    "Rotherham, England": {
+        "display_name": "Rotherham, South Yorkshire, England, United Kingdom",
+        "place_id": 242170962
+    },
+    "Tower Hamlets, England": {
+        "display_name": "Tower Hamlets, Dover, Kent, England, CT17 0BH, United Kingdom",
+        "place_id": 85783504
+    },
+    "Mid and East Antrim, Northern Ireland": {
+        "display_name": "Not found",
+        "place_id": "Not found"
+    },
+    "East Renfrewshire, Scotland": {
+        "display_name": "East Renfrewshire, Scotland, United Kingdom",
+        "place_id": 240259024
+    },
+    "North Northamptonshire, England": {
+        "display_name": "North Northamptonshire, England, United Kingdom",
+        "place_id": 243173890
+    },
+    "Redcar and Cleveland, England": {
+        "display_name": "Redcar and Cleveland, Tees Valley, England, United Kingdom",
+        "place_id": 237055817
+    },
+    "Inverclyde, Scotland": {
+        "display_name": "Inverclyde, Scotland, United Kingdom",
+        "place_id": 239758355
+    },
+    "Kingston upon Thames, England": {
+        "display_name": "Kingston upon Thames, Greater London, England, KT1 1JS, United Kingdom",
+        "place_id": 244170409
+    },
+    "North Lincolnshire, England": {
+        "display_name": "North Lincolnshire, England, United Kingdom",
+        "place_id": 242189637
+    },
+    "Slough, England": {
+        "display_name": "Slough, England, United Kingdom",
+        "place_id": 386005210
+    },
+    "Stockport, England": {
+        "display_name": "Stockport, Greater Manchester, England, United Kingdom",
+        "place_id": 241477340
+    },
+    "Ealing, England": {
+        "display_name": "Ealing, Greater London, England, W5 5DG, United Kingdom",
+        "place_id": 242326168
+    },
+    "East Lothian, Scotland": {
+        "display_name": "East Lothian, Scotland, United Kingdom",
+        "place_id": 239592718
+    },
+    "Wigan, England": {
+        "display_name": "Wigan, Greater Manchester, England, United Kingdom",
+        "place_id": 239315751
+    },
+    "Hackney, England": {
+        "display_name": "Hackney, Greater London, England, E9 6QW, United Kingdom",
+        "place_id": 243879295
+    },
+    "Bury, England": {
+        "display_name": "Bury, Greater Manchester, England, United Kingdom",
+        "place_id": 241026434
+    },
+    "Hounslow, England": {
+        "display_name": "Hounslow, Greater London, England, TW3 1DA, United Kingdom",
+        "place_id": 244329684
+    },
+    "Nottingham, England": {
+        "display_name": "Nottingham, Nottinghamshire, England, United Kingdom",
+        "place_id": 242308679
+    },
+    "Barnet, England": {
+        "display_name": "Chipping Barnet, Greater London, England, EN5 5SB, United Kingdom",
+        "place_id": 243445075
+    },
+    "Havering, England": {
+        "display_name": "London Borough of Havering, London, Greater London, England, United Kingdom",
+        "place_id": 85168402
+    },
+    "Manchester, England": {
+        "display_name": "Manchester, Greater Manchester, England, United Kingdom",
+        "place_id": 239199525
+    },
+    "Conwy, Wales": {
+        "display_name": "Conwy, Wales, United Kingdom",
+        "place_id": 238881659
+    },
+    "Peterborough, England": {
+        "display_name": "Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE1 1XH, United Kingdom",
+        "place_id": 240404954
+    },
+    "Rhondda Cynon Taf, Wales": {
+        "display_name": "Rhondda Cynon Taf, Wales, United Kingdom",
+        "place_id": 243765782
+    },
+    "East Dunbartonshire, Scotland": {
+        "display_name": "East Dunbartonshire, Scotland, United Kingdom",
+        "place_id": 237604022
+    },
+    "Plymouth, England": {
+        "display_name": "Plymouth, England, United Kingdom",
+        "place_id": 245758467
+    },
+    "Orkney Islands, Scotland": {
+        "display_name": "Orkney Islands, Scotland, United Kingdom",
+        "place_id": 236328998
+    },
+    "Argyll and Bute, Scotland": {
+        "display_name": "Argyll and Bute, Scotland, United Kingdom",
+        "place_id": 237597786
+    },
+    "Merthyr Tydfil, Wales": {
+        "display_name": "Merthyr Tydfil, Merthyr Tydfil County Borough, Wales, CF47 8BS, United Kingdom",
+        "place_id": 243240398
+    },
+    "Bournemouth, England": {
+        "display_name": "Bournemouth, Bournemouth, Christchurch and Poole, England, BH2 6EG, United Kingdom",
+        "place_id": 374574163
+    },
+    "West Lothian, Scotland": {
+        "display_name": "West Lothian, Scotland, United Kingdom",
+        "place_id": 237576630
+    },
+    "Bath and North East Somerset, England": {
+        "display_name": "Bath and North East Somerset, West of England, England, United Kingdom",
+        "place_id": 243967928
+    },
+    "Lewisham, England": {
+        "display_name": "Lewisham, Greater London, England, SE13 6BB, United Kingdom",
+        "place_id": 242265155
+    },
+    "Moray, Scotland": {
+        "display_name": "Moray, Scotland, United Kingdom",
+        "place_id": 236507280
+    },
+    "Bracknell Forest, England": {
+        "display_name": "Bracknell Forest, England, United Kingdom",
+        "place_id": 242585102
+    },
+    "Pembrokeshire, Wales": {
+        "display_name": "Pembrokeshire, Wales, United Kingdom",
+        "place_id": 245930786
+    },
+    "Sandwell, England": {
+        "display_name": "Sandwell, West Midlands Combined Authority, England, United Kingdom",
+        "place_id": 238732688
+    },
+    "Southampton, England": {
+        "display_name": "Southampton, England, United Kingdom",
+        "place_id": 244354901
+    },
+    "Derry City and Strabane, Northern Ireland": {
+        "display_name": "Derry City and Strabane District Council, Derry Road, Strabane, County Tyrone, Northern Ireland, BT82 8AQ, United Kingdom",
+        "place_id": 240056504
+    },
+    "Buckinghamshire, England": {
+        "display_name": "Buckinghamshire, England, United Kingdom",
+        "place_id": 386450242
+    },
+    "Angus, Scotland": {
+        "display_name": "Angus, Scotland, United Kingdom",
+        "place_id": 236350400
+    },
+    "Bromley, England": {
+        "display_name": "London Borough of Bromley, London, Greater London, England, United Kingdom",
+        "place_id": 85182336
+    },
+    "Brighton and Hove, England": {
+        "display_name": "Brighton and Hove, England, United Kingdom",
+        "place_id": 244306831
+    },
+    "Shropshire, England": {
+        "display_name": "Shropshire, England, United Kingdom",
+        "place_id": 238603642
+    },
+    "Gateshead, England": {
+        "display_name": "Gateshead, Tyne and Wear, North East, England, United Kingdom",
+        "place_id": 236764574
+    },
+    "Thurrock, England": {
+        "display_name": "Thurrock, Essex, England, United Kingdom",
+        "place_id": 85492629
+    },
+    "Fermanagh and Omagh, Northern Ireland": {
+        "display_name": "Fermanagh and Omagh District, Northern Ireland, United Kingdom",
+        "place_id": 369074940
+    },
+    "Solihull, England": {
+        "display_name": "Metropolitan Borough of Solihull, West Midlands Combined Authority, England, United Kingdom",
+        "place_id": 241061679
+    },
+    "Kingston upon Hull, England": {
+        "display_name": "Kingston upon Hull, England, United Kingdom",
+        "place_id": 240506678
+    },
+    "Wakefield, England": {
+        "display_name": "Wakefield, West Yorkshire, England, United Kingdom",
+        "place_id": 242464462
+    },
+    "Newcastle upon Tyne, England": {
+        "display_name": "Newcastle upon Tyne, North of Tyne, England, United Kingdom",
+        "place_id": 237126205
+    },
+    "Herefordshire, England": {
+        "display_name": "Herefordshire, England, United Kingdom",
+        "place_id": 238712339
+    },
+    "Dundee City, Scotland": {
+        "display_name": "Dundee City, Scotland, United Kingdom",
+        "place_id": 236499580
+    },
+    "Bedford, England": {
+        "display_name": "Bedford, England, MK40 1SU, United Kingdom",
+        "place_id": 241414920
+    },
+    "Harrow, England": {
+        "display_name": "London Borough of Harrow, London, Greater London, England, United Kingdom",
+        "place_id": 242111003
+    },
+    "Croydon, England": {
+        "display_name": "Croydon, Greater London, England, CR0 1SZ, United Kingdom",
+        "place_id": 242523351
+    },
+    "Barnsley, England": {
+        "display_name": "Barnsley, South Yorkshire, England, United Kingdom",
+        "place_id": 239941194
+    },
+    "City of Edinburgh, Scotland": {
+        "display_name": "City of Edinburgh, Scotland, United Kingdom",
+        "place_id": 237306354
+    },
+    "Darlington, England": {
+        "display_name": "Darlington, County Durham, Tees Valley, England, DL1 5PW, United Kingdom",
+        "place_id": 236996173
+    },
+    "Hartlepool, England": {
+        "display_name": "Hartlepool, Tees Valley, England, TS24 7EQ, United Kingdom",
+        "place_id": 236702240
+    },
+    "Cheshire East, England": {
+        "display_name": "Cheshire East, England, United Kingdom",
+        "place_id": 240126206
+    },
+    "Tameside, England": {
+        "display_name": "Tameside, Greater Manchester, England, United Kingdom",
+        "place_id": 239125422
+    },
+    "Trafford, England": {
+        "display_name": "Trafford, Greater Manchester, England, United Kingdom",
+        "place_id": 239352645
+    },
+    "Mid Ulster, Northern Ireland": {
+        "display_name": "Mid Ulster District Council, Circular Road, Dungannon, County Tyrone, Northern Ireland, BT71 6BE, United Kingdom",
+        "place_id": 378450921
+    },
+    "Cheshire West and Chester, England": {
+        "display_name": "Cheshire West and Chester, England, United Kingdom",
+        "place_id": 239681605
+    },
+    "Doncaster, England": {
+        "display_name": "Doncaster, South Yorkshire, England, United Kingdom",
+        "place_id": 240270098
+    },
+    "Gwynedd, Wales": {
+        "display_name": "Gwynedd, Wales, United Kingdom",
+        "place_id": 390646323
+    },
+    "North Somerset, England": {
+        "display_name": "North Somerset, England, United Kingdom",
+        "place_id": 243494117
+    },
+    "Rochdale, England": {
+        "display_name": "Rochdale, Greater Manchester, England, United Kingdom",
+        "place_id": 239073478
+    },
+    "Calderdale, England": {
+        "display_name": "Calderdale, West Yorkshire, England, United Kingdom",
+        "place_id": 239918097
+    },
+    "Cornwall, England": {
+        "display_name": "Cornwall, England, United Kingdom",
+        "place_id": 245759184
+    },
+    "West Berkshire, England": {
+        "display_name": "West Berkshire, England, United Kingdom",
+        "place_id": 243236870
+    },
+    "West Northamptonshire, England": {
+        "display_name": "West Northamptonshire, England, United Kingdom",
+        "place_id": 241381193
+    },
+    "Powys, Wales": {
+        "display_name": "Powys, Wales, United Kingdom",
+        "place_id": 390646321
+    },
+    "Leicester, England": {
+        "display_name": "Leicester, Leicestershire, England, LE1 5YA, United Kingdom",
+        "place_id": 240877494
+    },
+    "Warrington, England": {
+        "display_name": "Warrington, England, WA1 1TS, United Kingdom",
+        "place_id": 239378267
+    },
+    "Renfrewshire, Scotland": {
+        "display_name": "Renfrewshire, Scotland, United Kingdom",
+        "place_id": 237543642
+    },
+    "Westminster, England": {
+        "display_name": "Westminster, Millbank, City of Westminster, Greater London, England, SW1P 3JX, United Kingdom",
+        "place_id": 242065515
+    },
+    "North Ayrshire, Scotland": {
+        "display_name": "North Ayrshire, Scotland, United Kingdom",
+        "place_id": 237639327
+    },
+    "Newry, Northern Ireland": {
+        "display_name": "Newry, County Down, Northern Ireland, United Kingdom",
+        "place_id": 237751753
+    },
+    "Swansea, Wales": {
+        "display_name": "Swansea, Wales, SA1 3BN, United Kingdom",
+        "place_id": 243253821
+    },
+    "Stoke-on-Trent, England": {
+        "display_name": "Stoke-on-Trent, England, United Kingdom",
+        "place_id": 239743963
+    },
+    "Wiltshire, England": {
+        "display_name": "Wiltshire, England, United Kingdom",
+        "place_id": 242904742
+    },
+    "Dumfries and Galloway, Scotland": {
+        "display_name": "Dumfries and Galloway, Scotland, United Kingdom",
+        "place_id": 237668441
+    },
+    "Causeway Coast and Glens, Northern Ireland": {
+        "display_name": "Causeway Coast and Glens Borough Council, Connell Street, Whitehill, Limavady, County Londonderry, Northern Ireland, BT49 0EP, United Kingdom",
+        "place_id": 380319814
+    },
+    "South Tyneside, England": {
+        "display_name": "South Tyneside, Tyne and Wear, North East, England, United Kingdom",
+        "place_id": 236810977
+    }
+}

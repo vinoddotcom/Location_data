@@ -16,8 +16,8 @@
         "place_id": 240153421
     },
     "West Godavari District, Andhra Pradesh": {
-        "display_name": "State Bank of India, Bhimavaram - Gudivada Road, Pedda Amiram, Bhimavaram, West Godavari, Andhra Pradesh, 534208, India",
-        "place_id": 246552672
+        "display_name": "West Godavari, Andhra Pradesh, India",
+        "place_id": 216278624
     },
     "Golaghat District, Assam": {
         "display_name": "Golaghat District, Assam, India",
@@ -152,7 +152,7 @@
         "place_id": 240276066
     },
     "Dangs (Ahwa) District, Gujarat": {
-        "display_name": "The Dāngs, Dang District, Gujarat, India",
+        "display_name": "The Dangs, Dang District, Gujarat, India",
         "place_id": 244765691
     },
     "Kokrajhar District, Assam": {
@@ -195,9 +195,9 @@
         "display_name": "Almora District, Uttarakhand, India",
         "place_id": 243552882
     },
-    "Hanamkonda (erstwhile Warangal (Urban)) District, Telangana": {
-        "display_name": "Hanamkonda, Hanamkonda mandal, Hanumakonda District, Telangana, 506001, India",
-        "place_id": 247499415
+    "Hanumakonda District, Telangana": {
+        "display_name": "Hanumakonda District, Telangana, India",
+        "place_id": 246830982
     },
     "Khunti District, Jharkhand": {
         "display_name": "Khunti District, Jharkhand, India",
@@ -244,8 +244,8 @@
         "place_id": 246103734
     },
     "Bagalkot District, Karanataka": {
-        "display_name": "Bagalkote, Bagalakote taluk, Bagalkote District, Karnataka, 587102, India",
-        "place_id": 245441710
+        "display_name": "Bagalkote District, Karnataka, India",
+        "place_id": 246944908
     },
     "Phek District, Nagaland": {
         "display_name": "Phek District, Nagaland, India",
@@ -299,9 +299,9 @@
         "display_name": "Kottayam District, Kerala, India",
         "place_id": 249438562
     },
-    "Prakasam District, Andhra Pradesh": {
-        "display_name": "Prakasam Municipal Park, Tirupati, Tirupati (Urban), Tirupati, Andhra Pradesh, 517500, India",
-        "place_id": 248767000
+    "Prakasam, Andhra Pradesh": {
+        "display_name": "Prakasam, Andhra Pradesh, India",
+        "place_id": 248470184
     },
     "Khagaria District, Bihar": {
         "display_name": "Khagaria District, Bihar, India",
@@ -343,9 +343,9 @@
         "display_name": "Azamgarh District, Uttar Pradesh, India",    
         "place_id": 241727217
     },
-    "Aurangabad District, Maharashtra": {
-        "display_name": "Chhatrapati Sambhajinagar, Chhatrapati Sambhajinagar District, Maharashtra, 431002, India",
-        "place_id": 247951316
+    "Chhatrapati Sambhajinagar District, Maharashtra": {
+        "display_name": "Chhatrapati Sambhajinagar District, Maharashtra, India",
+        "place_id": 215166885
     },
     "Salem District, Tamil Nadu": {
         "display_name": "Salem District, Tamil Nadu, India",
@@ -363,9 +363,9 @@
         "display_name": "Dungarpur District, Rajasthan, India",
         "place_id": 246052518
     },
-    "YSR Kadapa (Cuddapah) District, Andhra Pradesh": {
-        "display_name": "YSR Statue, NH40;NH716, Alamkhampalle, Kadapa, YSR, Andhra Pradesh, 516001, India",
-        "place_id": 248096935
+    "YSR, Andhra Pradesh": {
+        "display_name": "YSR, Andhra Pradesh, India",
+        "place_id": 249657496
     },
     "Bankura District, West Bengal": {
         "display_name": "Bankura District, West Bengal, India",
@@ -375,8 +375,8 @@
         "display_name": "Visakhapatnam, Visakhapatnam (Urban), Visakhapatnam, Andhra Pradesh, 530001, India",
         "place_id": 246383075
     },
-    "Tiruvarur District, Tamil Nadu": {
-        "display_name": "Tiruvarur - Kodavasal - Kumbakonam Road, Palavoi, Manakkal, Kudavasal, Thiruvarur District, Tamil Nadu, 612603, India",
+    "Thiruvarur District, Tamil Nadu": {
+        "display_name": "Thiruvarur District, Tamil Nadu, India",
         "place_id": 249150380
     },
     "Chandrapur District, Maharashtra": {
@@ -787,9 +787,9 @@
         "display_name": "Varanasi District, Uttar Pradesh, India",
         "place_id": 211815844
     },
-    "Ferozepur District, Punjab": {
-        "display_name": "Ferozepur, Fatehgarh Sahib Tahsil, Fatehgarh Sahib District, Punjab, India",
-        "place_id": 210272113
+    "Firozpur District, Punjab": {
+        "display_name": "Firozpur District, Punjab, India",
+        "place_id": 243169675
     },
     "Kishanganj District, Bihar": {
         "display_name": "Kishanganj District, Bihar, India",
@@ -799,9 +799,9 @@
         "display_name": "Balaghat District, Madhya Pradesh, India",
         "place_id": 215378903
     },
-    "Gariyaband District, Chhattisgarh": {
-        "display_name": "Bindranavagarh(Gariyaband) Tahsil, Gariaband District, Chhattisgarh, India",
-        "place_id": 214974601
+    "Gariaband District, Chhattisgarh": {
+        "display_name": "Gariaband District, Chhattisgarh, India",
+        "place_id": 247582091
     },
     "North 24 Parganas District, West Bengal": {
         "display_name": "North 24 Parganas District, West Bengal, India",
@@ -836,8 +836,8 @@
         "place_id": 188869228
     },
     "Nabarangpur District, Odisha": {
-        "display_name": "District Head Quarter Hospital, Nabarangpur, NH26, Nabarangapur, Nabarangapur P.S, Nabarangapur District, Odisha, 764059, India",
-        "place_id": 214901307
+        "display_name": "Nabarangapur District, Odisha, India",
+        "place_id": 247498792
     },
     "Latur District, Maharashtra": {
         "display_name": "Latur District, Maharashtra, India",
@@ -855,13 +855,13 @@
         "display_name": "Coimbatore District, Tamil Nadu, India",
         "place_id": 217882962
     },
-    "South Tripura": {
-        "display_name": "South Tripura, Gomati District, Tripura, India",
-        "place_id": 216193626
+    "South Tripura District, Tripura": {
+        "display_name": "South Tripura District, Tripura, India",
+        "place_id": 248892038
     },
-    "Shravasti District, Uttar Pradesh": {
-        "display_name": "Sravasti, Ikauna, Sharavasti District, Uttar Pradesh, India",
-        "place_id": 209964793
+    "Sharavasti District, Uttar Pradesh": {
+        "display_name": "Sharavasti District, Uttar Pradesh, India",
+        "place_id": 243019060
     },
     "New Delhi": {
         "display_name": "New Delhi, Delhi, India",
@@ -927,9 +927,9 @@
         "display_name": "Bhandara District, Maharashtra, India",
         "place_id": 213469913
     },
-    "Sri Sathya Sai District, Andhra Pradesh": {
-        "display_name": "State Bank of India, Puttaparthi Road, Puttaparthi, Sri Sathya Sai, Andhra Pradesh, 515134, India",
-        "place_id": 216867753
+    "Sri Sathya Sai, Andhra Pradesh": {
+        "display_name": "Sri Sathya Sai, Andhra Pradesh, India",
+        "place_id": 250438068
     },
     "Gopalganj District, Bihar": {
         "display_name": "Gopalganj District, Bihar, India",
@@ -1063,9 +1063,9 @@
         "display_name": "Kumuram Bheem Asifabad District, Telangana, India",
         "place_id": 214389179
     },
-    "NTR District, Andhra Pradesh": {
-        "display_name": "APSRTC BUS STAND , KODURU ( NTR DISTRICT ), APSRTC Bus Stand Road, Koduru, Krishna, Andhra Pradesh, 521328, India",
-        "place_id": 214917755
+    "NTR, Andhra Pradesh": {
+        "display_name": "NTR, Andhra Pradesh, India",
+        "place_id": 216551461
     },
     "Jhansi District, Uttar Pradesh": {
         "display_name": "Jhansi District, Uttar Pradesh, India",
@@ -1227,9 +1227,9 @@
         "display_name": "Jind District, Haryana, India",
         "place_id": 211680157
     },
-    "Siddharth Nagar District, Uttar Pradesh": {
-        "display_name": "Police Office Siddharth Nagar, siddharth nagar, NH28;NH730, Naugarh, Siddharthnagar District, Uttar Pradesh, 272203, India",
-        "place_id": 209863438
+    "Siddharthnagar District, Uttar Pradesh": {
+        "display_name": "Siddharthnagar District, Uttar Pradesh, India",
+        "place_id": 210254431
     },
     "Etawah District, Uttar Pradesh": {
         "display_name": "Etawah District, Uttar Pradesh, India",
@@ -1255,9 +1255,9 @@
         "display_name": "Balrampur District, Chhattisgarh, India",
         "place_id": 215357102
     },
-    "Korea (Koriya) District, Chhattisgarh": {
-        "display_name": "Korea, Khadganva Tahsil, Manendragarh-Chirimiri-Bharatpur District, Chhattisgarh, India",
-        "place_id": 217571478
+    "Koriya District, Chhattisgarh": {
+        "display_name": "Koriya District, Chhattisgarh, India",
+        "place_id": 216680384
     },
     "Chhatarpur District, Madhya Pradesh": {
         "display_name": "Chhatarpur District, Madhya Pradesh, India",
@@ -1535,9 +1535,9 @@
         "display_name": "Auraiya District, Uttar Pradesh, India",
         "place_id": 244236622
     },
-    "Paschim (West) Burdwan (Bardhaman) District, West Bengal": {
-        "display_name": "Primary Health Centre, Paschim Mamudpur, SH8, Manteswar, Purba Bardhaman District, West Bengal, 713125, India",
-        "place_id": 246739417
+    "Paschim Bardhaman District, West Bengal": {
+        "display_name": "Paschim Bardhaman District, West Bengal, India",
+        "place_id": 218175185
     },
     "Amreli District, Gujarat": {
         "display_name": "Amreli District, Gujarat, India",
@@ -1600,7 +1600,7 @@
         "place_id": 379390694
     },
     "Hoshangabad District, Madhya Pradesh": {
-        "display_name": "Hoshangābād, Narmadapuram District, Madhya Pradesh, 461005, India",
+        "display_name": "Hoshangabad, Narmadapuram District, Madhya Pradesh, 461005, India",
         "place_id": 244544666
     },
     "Yadgir District, Karanataka": {
@@ -1772,8 +1772,8 @@
         "place_id": 244313887
     },
     "Tirupati District, Andhra Pradesh": {
-        "display_name": "Tirupati, Tirupati (Urban), Tirupati, Andhra Pradesh, 517500, India",
-        "place_id": 248404559
+        "display_name": "Tirupati, Andhra Pradesh, India",
+        "place_id": 251566452
     },
     "West Delhi": {
         "display_name": "North West Delhi District, Delhi, India",
@@ -1827,9 +1827,9 @@
         "display_name": "Gomati District, Tripura, India",
         "place_id": 249136136
     },
-    "Konaseema District, Andhra Pradesh": {
-        "display_name": "Konaseema, Ainavilli, Dr. B. R. Ambedkar Konaseema, Andhra Pradesh, 533228, India",
-        "place_id": 246942140
+    "Dr. B. R. Ambedkar Konaseema, Andhra Pradesh": {
+        "display_name": "Dr. B. R. Ambedkar Konaseema, Andhra Pradesh, India",
+        "place_id": 246567354
     },
     "Aurangabad District, Bihar": {
         "display_name": "Aurangabad District, Bihar, India",
@@ -1843,9 +1843,9 @@
         "display_name": "Araria District, Bihar, India",
         "place_id": 240886739
     },
-    "Parvathipuram Manyam District, Andhra Pradesh": {
-        "display_name": "Parvathipuram, Parvathipuram Manyam, Andhra Pradesh, India",
-        "place_id": 248077494
+    "Parvathipuram Manyam, Andhra Pradesh": {
+        "display_name": "Parvathipuram Manyam, Andhra Pradesh, India",
+        "place_id": 247079276
     },
     "Pherzawl District, Manipur": {
         "display_name": "Pherzawl District, Manipur, 795143, India",
@@ -1895,9 +1895,9 @@
         "display_name": "Nanded District, Maharashtra, India",
         "place_id": 247322617
     },
-    "Rangareddy District, Telangana": {
-        "display_name": "Rangareddy Palle, Gandeed mandal, Mahabubnagar District, Telangana, India",
-        "place_id": 246413515
+    "Ranga Reddy District, Telangana": {
+        "display_name": "Ranga Reddy District, Telangana, India",
+        "place_id": 247365598
     },
     "Dima Hasao (North Cachar Hills) District, Assam": {
         "display_name": "Dima Hasao District, Assam, India",
@@ -2103,9 +2103,9 @@
         "display_name": "Chamarajanagar District, Karnataka, India",
         "place_id": 249909986
     },
-    "Chengalpet District, Tamil Nadu": {
-        "display_name": "Chengalpet Street, Block-18, Neyveli Township, Panruti, Cuddalore District, Tamil Nadu, 607803, India",
-        "place_id": 250392835
+    "Chengalpattu District, Tamil Nadu": {
+        "display_name": "Chengalpattu District, Tamil Nadu, India",
+        "place_id": 218494192
     },
     "Khowai District, Tripura": {
         "display_name": "Khowai District, Tripura, India",
@@ -2207,9 +2207,9 @@
         "display_name": "Alirajpur District, Madhya Pradesh, India",
         "place_id": 245801088
     },
-    "Annamayya District, Andhra Pradesh": {
-        "display_name": "Annamayya Circle, Nellore, Sri Potti Sriramulu Nellore, Andhra Pradesh, 524003, India",
-        "place_id": 248115052
+    "Annamayya, Andhra Pradesh": {
+        "display_name": "Annamayya, Andhra Pradesh, India",
+        "place_id": 216559465
     },
     "East Champaran (Motihari) District, Bihar": {
         "display_name": "East Champaran District, Bihar, India",
@@ -2227,9 +2227,9 @@
         "display_name": "Bapatla, Andhra Pradesh, 522101, India",
         "place_id": 248419121
     },
-    "Bellari (Bellary) District, Karanataka": {
-        "display_name": "Ballari, Bellary taluk, Ballari District, Karnataka, 583101, India",
-        "place_id": 248479500
+    "Ballari District, Karnataka": {
+        "display_name": "Ballari District, Karnataka, India",
+        "place_id": 216705226
     },
     "West Singhbhum District, Jharkhand": {
         "display_name": "West Singhbhum District, Jharkhand, India",
@@ -2244,7 +2244,7 @@
         "place_id": 245005158
     },
     "Hazaribag District, Jharkhand": {
-        "display_name": "Hazārībāg, Hazaribagh District, Jharkhand, India",
+        "display_name": "Hazarībag, Hazaribagh District, Jharkhand, India",
         "place_id": 242168291
     },
     "Karaikal District, Puducherry": {
@@ -2272,8 +2272,8 @@
         "place_id": 248498411
     },
     "Purba Burdwan (Bardhaman) District, West Bengal": {
-        "display_name": "Purba Bardhaman Police Lines, Ichlabad Road, Alisha, Bardhaman, Burdwan - II, Purba Bardhaman District, West Bengal, 713106, India",
-        "place_id": 246882827
+        "display_name": "Purba Bardhaman District, West Bengal, India",
+        "place_id": 215277589
     },
     "Bongaigaon District, Assam": {
         "display_name": "Bongaigaon District, Assam, India",
@@ -2384,8 +2384,8 @@
         "place_id": 217861481
     },
     "Krishna District, Andhra Pradesh": {
-        "display_name": "krishna puram, Doravarisatram, Tirupati, Andhra Pradesh, India",
-        "place_id": 219070114
+        "display_name": "Krishna, Andhra Pradesh, India",
+        "place_id": 247638480
     },
     "Moga District, Punjab": {
         "display_name": "Moga District, Punjab, India",
@@ -2411,9 +2411,9 @@
         "display_name": "Jhajjar District, Haryana, India",
         "place_id": 213604608
     },
-    "Morigaon District, Assam": {
-        "display_name": "Morigaon Civil Hospital Blood Bank, SH3, Kamalabari, Marigaon, Marigaon District, Assam, 782105, India",
-        "place_id": 209831679
+    "Marigaon District, Assam": {
+        "display_name": "Marigaon District, Assam, India",
+        "place_id": 208103786
     },
     "Simdega District, Jharkhand": {
         "display_name": "Simdega District, Jharkhand, India",
@@ -2471,9 +2471,9 @@
         "display_name": "Kaithal District, Haryana, India",
         "place_id": 373837169
     },
-    "Sepahijala District, Tripura": {
-        "display_name": "Sepahijala Wildlife Sanctuary, Bishalgarh, Sipahijala District, Tripura, 799102, India",
-        "place_id": 218102147
+    "Sipahijala District, Tripura": {
+        "display_name": "Sipahijala District, Tripura, India",
+        "place_id": 216074417
     },
     "Kalaburagi (Gulbaraga) District, Karanataka": {
         "display_name": "Kalaburagi District, Karnataka, India",
@@ -2512,20 +2512,20 @@
         "place_id": 215338547
     },
     "Davangere District, Karanataka": {
-        "display_name": "Davanagere, Davanagere Taluku, Davanagere District, Karnataka, 577000, India",
-        "place_id": 218672378
+        "display_name": "Davanagere District, Karnataka, India",
+        "place_id": 248527935
     },
     "Tenkasi District, Tamil Nadu": {
         "display_name": "Tenkasi District, Tamil Nadu, India",
         "place_id": 221128036
     },
-    "Dholpur District, Rajasthan": {
-        "display_name": "Dhaulpur, Dhaulpur Tehsil, Dhaulpur District, Rajasthan, 328001, India",
-        "place_id": 212952498
+    "Dhaulpur District, Rajasthan": {
+        "display_name": "Dhaulpur District, Rajasthan, India",
+        "place_id": 246372246
     },
-    "Balasore District, Odisha": {
-        "display_name": "Balasore, Baleshwar (M), Baleshwar District, Odisha, 756001, India",
-        "place_id": 218369361
+    "Baleshwar District, Odisha": {
+        "display_name": "Baleshwar District, Odisha, India",
+        "place_id": 248531605
     },
     "Karimnagar District, Telangana": {
         "display_name": "Karimnagar District, Telangana, India",
@@ -2639,9 +2639,9 @@
         "display_name": "Sonipat District, Haryana, India",
         "place_id": 212665022
     },
-    "Chikballapur District, Karanataka": {
-        "display_name": "District hospital, chikballapur, NH69, Chikkaballapura, Chikkaballapura taluk, Chikkaballapura District, Karnataka, 562101, India",
-        "place_id": 218908220
+    "Chikkaballapura District, Karanataka": {
+        "display_name": "Chikkaballapura District, Karnataka, India",
+        "place_id": 249203623
     },
     "Bulandshahr District, Uttar Pradesh": {
         "display_name": "Bulandshahr District, Uttar Pradesh, India",
@@ -2715,9 +2715,9 @@
         "display_name": "Narmada District, Gujarat, India",
         "place_id": 214489010
     },
-    "Chhota Udepur District, Gujarat": {
-        "display_name": "Chhota Udaipur, SH62, Chhota Udaipur Taluka, Chhota Udaipur District, Gujarat, 391165, India",
-        "place_id": 214597794
+    "Chhota Udaipur District, Gujarat": {
+        "display_name": "Chhota Udaipur District, Gujarat, India",
+        "place_id": 245799645
     },
     "Hamirpur District, Himachal Pradesh": {
         "display_name": "Hamirpur District, Himachal Pradesh, India",
@@ -2843,13 +2843,13 @@
         "display_name": "Kargil district, Ladakh, India",
         "place_id": 188937256
     },
-    "Devbhoomi Dwarka District, Gujarat": {
-        "display_name": "Devbhoomi Multispeciality Hospital, NH151A, Khambhaliya, Khambhalia Taluka, Devbhumi Dwaraka District, Gujarat, 361305, India",
-        "place_id": 216610763
+    "Devbhumi Dwaraka District, Gujarat": {
+        "display_name": "Devbhumi Dwaraka District, Gujarat, India",
+        "place_id": 246724736
     },
-    "Aizawl District, Mizoram": {
-        "display_name": "Aizawl, Tlangnuam, Aizwal District, Mizoram, 796190, India",
-        "place_id": 217953290
+    "Aizwal District, Mizoram": {
+        "display_name": "Aizwal District, Mizoram, India",
+        "place_id": 247585093
     },
     "Barnala District, Punjab": {
         "display_name": "Barnala District, Punjab, India",
@@ -2863,9 +2863,9 @@
         "display_name": "West Garo Hills District, Meghalaya, India",
         "place_id": 210375169
     },
-    "Kanyakumari District, Tamil Nadu": {
-        "display_name": "Kanyakumari, Kanniyakumari District, Tamil Nadu, 629157, India",
-        "place_id": 220191242
+    "Kanniyakumari District, Tamil Nadu": {
+        "display_name": "Kanniyakumari District, Tamil Nadu, India",
+        "place_id": 250156130
     },
     "Jaipur District, Rajasthan": {
         "display_name": "Jaipur District, Rajasthan, India",
@@ -2915,9 +2915,9 @@
         "display_name": "Jagatsinghapur District, Odisha, India",
         "place_id": 380946658
     },
-    "Gondia District, Maharashtra": {
-        "display_name": "Gondia City, Gondiya Taluka, Gondiya District, Maharashtra, India",
-        "place_id": 216852961
+    "Gondiya District, Maharashtra": {
+        "display_name": "Gondiya District, Maharashtra, India",
+        "place_id": 246765652
     },
     "Porbandar District, Gujarat": {
         "display_name": "Porbandar District, Gujarat, India",
@@ -2999,9 +2999,9 @@
         "display_name": "Panipat District, Haryana, India",
         "place_id": 242414753
     },
-    "Mehsana District, Gujarat": {
-        "display_name": "Mehsana Lakhvad, Mahesana, Mahesana Taluka, Mahesana District, Gujarat, 384001, India",
-        "place_id": 215281051
+    "Mahesana District, Gujarat": {
+        "display_name": "Mahesana District, Gujarat, India",
+        "place_id": 245376779
     },
     "Kohima District, Nagaland": {
         "display_name": "Kohima District, Nagaland, India",
@@ -3011,9 +3011,9 @@
         "display_name": "Bhadohi, Sant Ravidas Nagar District, Uttar Pradesh, India",
         "place_id": 211713549
     },
-    "Shakti District, Chhattisgarh": {
-        "display_name": "SHIV SHAKTI BHURI DABRI DHAAM, Durg - Raipur - Arang Expressway, Durg, Durg Tahsil, Durg District, Chhattisgarh, 491002, India",
-        "place_id": 386574476
+    "Sakti District, Chhattisgarh": {
+        "display_name": "Sakti District, Chhattisgarh, India",
+        "place_id": 217568339
     },
     "Kallakurichi District, Tamil Nadu": {
         "display_name": "Kallakurichi District, Tamil Nadu, India",

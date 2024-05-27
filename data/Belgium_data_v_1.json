@@ -1,0 +1,174 @@
+{
+    "Doornik": {
+        "display_name": "Tournai, Tournai-Mouscron, Hainaut, Wallonia, Belgium",
+        "place_id": 86865317
+    },
+    "Brugge": {
+        "display_name": "Bruges, Brugge, West Flanders, Flanders, Belgium",
+        "place_id": 86368782
+    },
+    "Philippeville": {
+        "display_name": "Philippeville, Namur, Wallonia, 5600, Belgium",
+        "place_id": 88690002
+    },
+    "Diksmuide": {
+        "display_name": "Diksmuide, West Flanders, Flanders, 8600, Belgium",
+        "place_id": 85486081
+    },
+    "Charleroi": {
+        "display_name": "Charleroi, Hainaut, Wallonia, Belgium",
+        "place_id": 88089958
+    },
+    "Verviers": {
+        "display_name": "Verviers, Liège, Wallonia, 4800, Belgium",
+        "place_id": 377749287
+    },
+    "Turnhout": {
+        "display_name": "Turnhout, Antwerp, Flanders, 2300, Belgium",
+        "place_id": 91723307
+    },
+    "Bastenaken": {
+        "display_name": "Bastogne, Luxembourg, Wallonia, 6600, Belgium",
+        "place_id": 87668230
+    },
+    "Oostende": {
+        "display_name": "Ostend, West Flanders, Flanders, 8400, Belgium",
+        "place_id": 85939402
+    },
+    "Moeskroen": {
+        "display_name": "Mouscron, Tournai-Mouscron, Hainaut, Wallonia, Belgium",
+        "place_id": 87063415
+    },
+    "Gent": {
+        "display_name": "Ghent, Gent, East Flanders, Flanders, Belgium",
+        "place_id": 86195308
+    },
+    "Hasselt": {
+        "display_name": "Hasselt, Limburg, Flanders, Belgium",
+        "place_id": 89863291
+    },
+    "Ieper": {
+        "display_name": "Ypres, Ieper, West Flanders, Belgium",
+        "place_id": 86479428
+    },
+    "Oudenaarde": {
+        "display_name": "Oudenaarde, East Flanders, Flanders, 9700, Belgium",
+        "place_id": 86732526
+    },
+    "Borgworm": {
+        "display_name": "Waremme, Liège, Wallonia, 4300, Belgium",
+        "place_id": 88339633
+    },
+    "Zinnik": {
+        "display_name": "Soignies, Hainaut, Wallonia, Belgium",
+        "place_id": 371267852
+    },
+    "Aalst": {
+        "display_name": "Aalst, East Flanders, Flanders, Belgium",
+        "place_id": 90067921
+    },
+    "Nijvel": {
+        "display_name": "Nivelles, Walloon Brabant, Wallonia, Belgium",
+        "place_id": 370958971
+    },
+    "Tielt": {
+        "display_name": "Tielt, West Flanders, 8700, Belgium",
+        "place_id": 86373392
+    },
+    "Dinant": {
+        "display_name": "Dinant, Namur, Wallonia, Belgium",
+        "place_id": 88654166
+    },
+    "Thuin": {
+        "display_name": "Thuin, Hainaut, Wallonia, Belgium",
+        "place_id": 370674575
+    },
+    "Tongeren": {
+        "display_name": "Tongeren, Limburg, Flanders, 3700, Belgium",
+        "place_id": 88800843
+    },
+    "Aarlen": {
+        "display_name": "Arlon, Luxembourg, Wallonia, Belgium",
+        "place_id": 103322418
+    },
+    "Marche": {
+        "display_name": "Marché, Theux, Verviers, Liège, Wallonia, 4910, Belgium",
+        "place_id": 88422046
+    },
+    "Virton": {
+        "display_name": "Virton, Luxembourg, Wallonia, Belgium",
+        "place_id": 103780239
+    },
+    "Leuven": {
+        "display_name": "Leuven, Flemish Brabant, Flanders, Belgium",
+        "place_id": 89715196
+    },
+    "Luik": {
+        "display_name": "Liège, Wallonia, 4000, Belgium",
+        "place_id": 88930569
+    },
+    "Dendermonde": {
+        "display_name": "Dendermonde, East Flanders, Flanders, 9200, Belgium",
+        "place_id": 90005635
+    },
+    "Aat": {
+        "display_name": "Ath, Hainaut, Wallonia, Belgium",
+        "place_id": 86916885
+    },
+    "Sint": {
+        "display_name": "Pfizer, Rijksweg, Kalfort, Puurs, Puurs-Sint-Amands, Mechelen, Antwerp, Flanders, 2870, Belgium",
+        "place_id": 91013686
+    },
+    "Bergen": {
+        "display_name": "Mons, Hainaut, Wallonia, 7000, Belgium",
+        "place_id": 370607150
+    },
+    "Namen": {
+        "display_name": "Namur, Wallonia, Belgium",
+        "place_id": 88389196
+    },
+    "Brussel": {
+        "display_name": "Brussels, Brussels-Capital, Belgium",
+        "place_id": 90556087
+    },
+    "Roeselare": {
+        "display_name": "Roeselare, West Flanders, Flanders, 8800, Belgium",
+        "place_id": 86842890
+    },
+    "Mechelen": {
+        "display_name": "Mechelen, Antwerp, Flanders, Belgium",
+        "place_id": 91290642
+    },
+    "Maaseik": {
+        "display_name": "Maaseik, Limburg, 3680, Belgium",
+        "place_id": 96062838
+    },
+    "Veurne": {
+        "display_name": "Veurne, West Flanders, Flanders, 8630, Belgium",
+        "place_id": 85991150
+    },
+    "Eeklo": {
+        "display_name": "Eeklo, East Flanders, 9900, Belgium",
+        "place_id": 86405985
+    },
+    "Hoei": {
+        "display_name": "Huy, Liège, Wallonia, 4500, Belgium",
+        "place_id": 88875071
+    },
+    "Kortrijk": {
+        "display_name": "Kortrijk, West Flanders, Flanders, Belgium",
+        "place_id": 87425555
+    },
+    "Neufchâteau": {
+        "display_name": "Neufchâteau, Luxembourg, Wallonia, 6840, Belgium",
+        "place_id": 103958024
+    },
+    "Antwerpen": {
+        "display_name": "Antwerp, Flanders, Belgium",
+        "place_id": 91890846
+    },
+    "Halle": {
+        "display_name": "Halle, Halle-Vilvoorde, Flemish Brabant, Flanders, Belgium",
+        "place_id": 89345023
+    }
+}

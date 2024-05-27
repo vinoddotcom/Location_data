@@ -1,0 +1,310 @@
+{
+    "Mustang, Gandaki": {
+        "display_name": "Mustang, Gandaki Province, 33100, Nepal",
+        "place_id": 211788526
+    },
+    "Taplejung, Koshi": {
+        "display_name": "Taplejung, Koshi Province, 57500, Nepal",
+        "place_id": 209706999
+    },
+    "Kavrepalanchok, Bagmati": {
+        "display_name": "Kavrepalanchok, Bagmati Province, Nepal",
+        "place_id": 209606522
+    },
+    "Rupandehi, Lumbini": {
+        "display_name": "Rupandehi, Lumbini Province, Nepal",
+        "place_id": 211623408
+    },
+    "Salyan, Karnali": {
+        "display_name": "Salyan, Karnali Province, 22202, Nepal",
+        "place_id": 212154426
+    },
+    "Humla, Karnali": {
+        "display_name": "Humla, Karnali Province, Nepal",
+        "place_id": 211255125
+    },
+    "Ilam, Koshi": {
+        "display_name": "Ilam, Koshi Province, Nepal",
+        "place_id": 211011627
+    },
+    "Khotang, Koshi": {
+        "display_name": "Khotang, Koshi Province, Nepal",
+        "place_id": 209590603
+    },
+    "Jajarkot, Karnali": {
+        "display_name": "Jajarkot, Karnali Province, Nepal",
+        "place_id": 212859139
+    },
+    "Panchthar, Koshi": {
+        "display_name": "Panchthar, Koshi Province, 57408, Nepal",
+        "place_id": 211698020
+    },
+    "Mahottari, Madhesh": {
+        "display_name": "Mahottari, Madhesh Province, Nepal",
+        "place_id": 209165057
+    },
+    "Palpa, Lumbini": {
+        "display_name": "Palpa, Lumbini Province, Nepal",
+        "place_id": 211595048
+    },
+    "Sindhupalchok, Bagmati": {
+        "display_name": "Sindhupalchowk, Bagmati Province, 45300, Nepal",
+        "place_id": 210441374
+    },
+    "Chitwan, Bagmati": {
+        "display_name": "Chitwan, Bagmati Province, Nepal",
+        "place_id": 209282136
+    },
+    "Lamjung, Gandaki": {
+        "display_name": "Lamjung, Gandaki Province, Nepal",
+        "place_id": 212925444
+    },
+    "Dhankuta, Koshi": {
+        "display_name": "Dhankuta, Koshi Province, Nepal",
+        "place_id": 210841744
+    },
+    "Makwanpur, Bagmati": {
+        "display_name": "Makwanpur, Bagmati Province, Nepal",
+        "place_id": 214175372
+    },
+    "Kapilvastu, Lumbini": {
+        "display_name": "Kapilvastu, 32809, Nepal",
+        "place_id": 211170666
+    },
+    "Banke, Lumbini": {
+        "display_name": "Banke, Nepal",
+        "place_id": 241472382
+    },
+    "Saptari, Madhesh": {
+        "display_name": "Saptari, Madhesh Province, Nepal",
+        "place_id": 210787950
+    },
+    "Udayapur, Koshi": {
+        "display_name": "Udayapur, Koshi Province, 56300, Nepal",
+        "place_id": 210678582
+    },
+    "Sankhuwasabha, Koshi": {
+        "display_name": "Sankhuwasabha, Koshi Province, 56900, Nepal",
+        "place_id": 209970052
+    },
+    "Sarlahi, Madhesh": {
+        "display_name": "Sarlahi, Madhesh Province, 45800, Nepal",
+        "place_id": 209906766
+    },
+    "Dolpa, Karnali": {
+        "display_name": "Dolpa, Karnali Province, Nepal",
+        "place_id": 212264922
+    },
+    "Rautahat, Madhesh": {
+        "display_name": "Rautahat, Madhesh Province, 44515, Nepal",
+        "place_id": 210762701
+    },
+    "Morang, Koshi": {
+        "display_name": "Morang, Koshi Province, Nepal",
+        "place_id": 211092344
+    },
+    "Nuwakot, Bagmati": {
+        "display_name": "Nuwakot, Bagmati Province, Nepal",
+        "place_id": 210952544
+    },
+    "Jumla, Karnali": {
+        "display_name": "Jumla, Karnali Province, Nepal",
+        "place_id": 211373687
+    },
+    "Siraha, Madhesh": {
+        "display_name": "Siraha, Madhesh Province, Nepal",
+        "place_id": 211404500
+    },
+    "Dailekh, Karnali": {
+        "display_name": "Dailekh, Karnali Province, Nepal",
+        "place_id": 219215786
+    },
+    "Sunsari, Koshi": {
+        "display_name": "Sunsari, Koshi Province, Nepal",
+        "place_id": 210624181
+    },
+    "Arghakhanchi, Lumbini": {
+        "display_name": "Arghakhanchi, Lumbini Province, 32700, Nepal",
+        "place_id": 211342271
+    },
+    "Parsa, Madhesh": {
+        "display_name": "Parsa, Madhesh Province, Nepal",
+        "place_id": 209143914
+    },
+    "Eastern Rukum, Lumbini": {
+        "display_name": "Nepal Rastriya Aadharbhut Vidyalaya (Ne.Ra.Aa.Vi.), Korja, NH03, Nisikhola-06, Bhume, Eastern Rukum, Gandaki Province, Nepal",
+        "place_id": 212817135
+    },
+    "Western Rukum, Karnali": {
+        "display_name": "Western Rukum District, Karnali Province, 22000, Nepal",
+        "place_id": 210540886
+    },
+    "Kaski, Gandaki": {
+        "display_name": "Kaski, Gandaki Province, Nepal",
+        "place_id": 212438504
+    },
+    "Solukhumbu, Koshi": {
+        "display_name": "Solukhumbu, Koshi Province, Nepal",
+        "place_id": 210866257
+    },
+    "Lalitpur, Bagmati": {
+        "display_name": "Lalitpur, Bagmati Province, Nepal",
+        "place_id": 210064361
+    },
+    "Dhanusha, Madhesh": {
+        "display_name": "Dhanusha, Madhesh Province, Nepal",
+        "place_id": 209402594
+    },
+    "Jhapa, Koshi": {
+        "display_name": "Jhapa, Koshi Province, Nepal",
+        "place_id": 211901494
+    },
+    "Bhaktapur, Bagmati": {
+        "display_name": "Bhaktapur, Bhaktapur Municipality, Bhaktapur, Bagmati Province, 44800, Nepal",
+        "place_id": 209124187
+    },
+    "Okhaldhunga, Koshi": {
+        "display_name": "Okhaldhunga, Koshi Province, 56010, Nepal",
+        "place_id": 210202376
+    },
+    "Nawalparasi, Lumbini": {
+        "display_name": "Nawalparasi W, Lumbini Province, Nepal",
+        "place_id": 383389830
+    },
+    "Pyuthan, Lumbini": {
+        "display_name": "Pyuthan-05, Pyuthan, Lumbini Province, Nepal",
+        "place_id": 211622536
+    },
+    "Manang, Gandaki": {
+        "display_name": "Manang, Gandaki Province, 33500, Nepal",
+        "place_id": 212815291
+    },
+    "Sindhuli, Bagmati": {
+        "display_name": "Sindhuli, Bagmati Province, Nepal",
+        "place_id": 210523662
+    },
+    "Bara, Madhesh": {
+        "display_name": "Bara, Madhesh Province, Nepal",
+        "place_id": 210035709
+    },
+    "Nawalparasi, Gandaki": {
+        "display_name": "Nawalpur District, Gandaki Province, Nepal",
+        "place_id": 210732423
+    },
+    "Bardiya, Lumbini": {
+        "display_name": "Bardiya, Lumbini Province, Nepal",
+        "place_id": 212490883
+    },
+    "Myagdi, Gandaki": {
+        "display_name": "Myagdi, Gandaki Province, 33208, Nepal",
+        "place_id": 211189773
+    },
+    "Mugu, Karnali": {
+        "display_name": "Mugu, Karnali Province, 21100, Nepal",
+        "place_id": 212355762
+    },
+    "Tehrathum, Koshi": {
+        "display_name": "Tehrathum, Koshi Province, Nepal",
+        "place_id": 211341600
+    },
+    "Parbat, Gandaki": {
+        "display_name": "Parbat, Gandaki Province, Nepal",
+        "place_id": 211311171
+    },
+    "Dang, Lumbini": {
+        "display_name": "Gopal House, dang, Mahendra Highway, Lamahi-01, Narti, Lamahi, Dang, Nepal",
+        "place_id": 210334191
+    },
+    "Kathmandu, Bagmati": {
+        "display_name": "Kathmandu, Kathmandu Metropolitan City, Kathmandu, Bagmati Province, 46000, Nepal",
+        "place_id": 210906877
+    },
+    "Dolakha, Bagmati": {
+        "display_name": "Dolakha, Bagmati Province, Nepal",
+        "place_id": 210060458
+    },
+    "Syangja, Gandaki": {
+        "display_name": "Syangja, Gandaki Province, Nepal",
+        "place_id": 211766175
+    },
+    "Gulmi, Lumbini": {
+        "display_name": "Gulmi, Lumbini Province, Nepal",
+        "place_id": 212034053
+    },
+    "Ramechhap, Bagmati": {
+        "display_name": "Ramechhap, Bagmati Province, 45400, Nepal",
+        "place_id": 210852738
+    },
+    "Kalikot, Karnali": {
+        "display_name": "Kalikot, Karnali Province, 21300, Nepal",
+        "place_id": 211447563
+    },
+    "Gorkha, Gandaki": {
+        "display_name": "Gorkha, Gandaki Province, Nepal",
+        "place_id": 210509792
+    },
+    "Surkhet, Karnali": {
+        "display_name": "Surkhet, Karnali Province, 21700, Nepal",
+        "place_id": 211755694
+    },
+    "Rasuwa, Bagmati": {
+        "display_name": "Rasuwa, Bagmati Province, 45003, Nepal",
+        "place_id": 212251557
+    },
+    "Tanahun, Gandaki": {
+        "display_name": "Tanahun, Gandaki Province, Nepal",
+        "place_id": 209513190
+    },
+    "Baglung, Gandaki": {
+        "display_name": "Baglung, Gandaki Province, Nepal",
+        "place_id": 212164347
+    },
+    "Bhojpur, Koshi": {
+        "display_name": "Bhojpur, Koshi Province, Nepal",
+        "place_id": 210775098
+    },
+    "Dhading, Bagmati": {
+        "display_name": "Dhading, Bagmati Province, Nepal",
+        "place_id": 212911672
+    },
+    "Rolpa, Lumbini": {
+        "display_name": "Rolpa-04, Liwang, Rolpa, Lumbini Province, Nepal",
+        "place_id": 210526803
+    },
+    "Kanchanpur, Sudurpashchim": {
+        "display_name": "Kanchanpur District, Sudurpashchim Province, Nepal",
+        "place_id": 212979383
+    },
+    "Bajhang, Sudurpashchim": {
+        "display_name": "Bajhang Airport, NH64, Ridhapata, JayaPrithvi-09, Chainpur, JayaPrithvi, Bajhang, Nepal",
+        "place_id": 212000546
+    },
+    "Darchula, Sudurpashchim": {
+        "display_name": "Darchula District (Nepal), Sudurpashchim Province, Nepal",
+        "place_id": 381318113
+    },
+    "Doti, Sudurpashchim": {
+        "display_name": "Doti, Sudurpashchim Province, Nepal",
+        "place_id": 212501395
+    },
+    "Dadeldhura, Sudurpashchim": {
+        "display_name": "Dadeldhura, Sudurpashchim Province, 10300, Nepal",
+        "place_id": 387326570
+    },
+    "Kailali, Sudurpashchim": {
+        "display_name": "Kailali, Sudurpashchim Province, Nepal",
+        "place_id": 387326569
+    },
+    "Achham, Sudurpashchim": {
+        "display_name": "Achham, Sudurpashchim Province, 10709, Nepal",
+        "place_id": 212804328
+    },
+    "Baitadi, Sudurpashchim": {
+        "display_name": "Baitadi, Sudurpashchim Province, Nepal",
+        "place_id": 212099054
+    },
+    "Bajura, Sudurpashchim": {
+        "display_name": "Bajura, Sudurpashchim Province, Nepal",
+        "place_id": 212833363
+    }
+}

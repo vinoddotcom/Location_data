@@ -1,0 +1,666 @@
+{
+    "Moesa, Graubünden": {
+        "display_name": "Moësa, Grisons, Switzerland",
+        "place_id": 93895734
+    },
+    "Thierstein, Solothurn": {
+        "display_name": "Bezirk Thierstein, Amtei Dorneck-Thierstein, Solothurn, Switzerland",
+        "place_id": 78905953
+    },
+    "Moutier, Bern": {
+        "display_name": "Moutier, Bernese Jura administrative district, Bernese Jura administrative region, Bern, 2740, Switzerland",
+        "place_id": 78051684
+    },
+    "Aarwangen, Bern": {
+        "display_name": "Aarwangen, Oberaargau administrative district, Emmental-Oberaargau administrative region, Bern, 4912, Switzerland",
+        "place_id": 78053619
+    },
+    "La Vallée, Vaud": {
+        "display_name": "Ruisseau de la Vallée d'Engens, La Sarraz, District de Morges, Vaud, 1315, Switzerland",
+        "place_id": 78205990
+    },
+    "Entremont, Valais": {
+        "display_name": "Entremont, Wallis, Switzerland",
+        "place_id": 74744814
+    },
+    "Brig, Valais": {
+        "display_name": "Brig, Wallis, Switzerland",
+        "place_id": 61478752
+    },
+    "Payerne, Vaud": {
+        "display_name": "Payerne, District de la Broye-Vully, Vaud, Switzerland",
+        "place_id": 77494270
+    },
+    "Yverdon, Vaud": {
+        "display_name": "Yverdon-les-Bains, District du Jura-Nord vaudois, Vaud, Switzerland",
+        "place_id": 77693031
+    },
+    "Basel-City": {
+        "display_name": "Basel-City, Switzerland",
+        "place_id": 78576544
+    },
+    "Bernina, Graubünden": {
+        "display_name": "Bernina, Grisons, Switzerland",
+        "place_id": 60657305
+    },
+    "Wangen, Bern": {
+        "display_name": "Wangen an der Aare, Oberaargau administrative district, Emmental-Oberaargau administrative region, Bern, 3380, Switzerland",
+        "place_id": 78575975
+    },
+    "Oberegg, Appenzell Innerrhoden": {
+        "display_name": "Oberegg, Appenzell Innerrhoden, Switzerland",
+        "place_id": 61058690
+    },
+    "Conthey, Valais": {
+        "display_name": "Conthey, Wallis, 1964, Switzerland",
+        "place_id": 77716384
+    },
+    "Niedersimmental, Bern": {
+        "display_name": "Amtsbezirk Niedersimmental, Oberland administrative region, Bern, 3755, Switzerland",
+        "place_id": 77898557
+    },
+    "Signau, Bern": {
+        "display_name": "Signau, Emmental administrative district, Emmental-Oberaargau administrative region, Bern, Switzerland",
+        "place_id": 77491009
+    },
+    "Uri": {
+        "display_name": "Uri, Switzerland",
+        "place_id": 61469522
+    },
+    "Erlach, Bern": {
+        "display_name": "Erlach, Seeland administrative district, Seeland administrative region, Bern, 3235, Switzerland",
+        "place_id": 78153637
+    },
+    "Winterthur, Zürich": {
+        "display_name": "Winterthur, Bezirk Winterthur, Zurich, Switzerland",
+        "place_id": 60231575
+    },
+    "Oberhasli, Bern": {
+        "display_name": "Interlaken-Oberhasli administrative district, Oberland administrative region, Bern, Switzerland",
+        "place_id": 61484721
+    },
+    "Franches-Montagnes, Jura": {
+        "display_name": "District des Franches-Montagnes, Jura, Switzerland",
+        "place_id": 78021933
+    },
+    "Broye, Fribourg": {
+        "display_name": "District de la Broye, Fribourg, Switzerland",
+        "place_id": 77268410
+    },
+    "Amt Lucerne, Lucerne": {
+        "display_name": "Amt für Migration, 15, Fruttstrasse, Steghof, Lucerne, 6002, Switzerland",
+        "place_id": 60681416
+    },
+    "Lavaux, Vaud": {
+        "display_name": "District de Lavaux-Oron, Vaud, Switzerland",
+        "place_id": 77282904
+    },
+    "Biel, Bern": {
+        "display_name": "Biel/Bienne, Biel/Bienne administrative district, Seeland administrative region, Bern, Switzerland",
+        "place_id": 77783555
+    },
+    "Weinfelden, Thurgau": {
+        "display_name": "Weinfelden, Bezirk Weinfelden, Thurgau, 8570, Switzerland",
+        "place_id": 59479325
+    },
+    "Büren, Bern": {
+        "display_name": "Büren an der Aare, Seeland administrative district, Seeland administrative region, Bern, 3294, Switzerland",
+        "place_id": 78604842
+    },
+    "Visp, Valais": {
+        "display_name": "Visp, Wallis, Switzerland",
+        "place_id": 77211584
+    },
+    "Rüte, Appenzell Innerrhoden": {
+        "display_name": "Rüte, Brülisau, Schwende-Rüte, Appenzell Innerrhoden, 9050, Switzerland",
+        "place_id": 61145139
+    },
+    "Höfe, Schwyz": {
+        "display_name": "Höfe, Schwyz, Switzerland",
+        "place_id": 60775484
+    },
+    "Schwende, Appenzell Innerrhoden": {
+        "display_name": "Schwende, Schwende-Rüte, Appenzell Innerrhoden, 9057, Switzerland",
+        "place_id": 61053426
+    },
+    "Gonten, Appenzell Innerrhoden": {
+        "display_name": "Gonten, Appenzell Innerrhoden, 9108, Switzerland",
+        "place_id": 61121394
+    },
+    "Morges, Vaud": {
+        "display_name": "Morges, District de Morges, Vaud, 1110, Switzerland",
+        "place_id": 77828878
+    },
+    "Maloja, Graubünden": {
+        "display_name": "Maloja, Bregaglia, Maloja, Grisons, 7516, Switzerland",
+        "place_id": 61497502
+    },
+    "Horgen, Zürich": {
+        "display_name": "Horgen, Bezirk Horgen, Zurich, 8810, Switzerland",
+        "place_id": 60829135
+    },
+    "Distretto di Mendrisio, Ticino": {
+        "display_name": "Distretto di Mendrisio, Ticino, Switzerland",
+        "place_id": 62947569
+    },
+    "Avenches, Vaud": {
+        "display_name": "Avenches, District de la Broye-Vully, Vaud, 1580, Switzerland",
+        "place_id": 77692554
+    },
+    "Distretto di Locarno, Ticino": {
+        "display_name": "Distretto di Locarno, Ticino, Switzerland",
+        "place_id": 61212641
+    },
+    "Vevey, Vaud": {
+        "display_name": "Vevey, District de la Riviera-Pays-d’Enhaut, Vaud, 1800, Switzerland",
+        "place_id": 77439149
+    },
+    "Nyon, Vaud": {
+        "display_name": "Nyon, District de Nyon, Vaud, 1260, Switzerland",
+        "place_id": 77524980
+    },
+    "Aigle, Vaud": {
+        "display_name": "Aigle, District d'Aigle, Vaud, 1860, Switzerland",
+        "place_id": 76843227
+    },
+    "Bremgarten, Aargau": {
+        "display_name": "Bremgarten, Bezirk Bremgarten, Aargau, 5620, Switzerland",
+        "place_id": 59778341
+    },
+    "Distretto di Bellinzona, Ticino": {
+        "display_name": "Distretto di Bellinzona, Ticino, Switzerland",
+        "place_id": 61884870
+    },
+    "Zofingen, Aargau": {
+        "display_name": "Zofingen, Bezirk Zofingen, Aargau, Switzerland",
+        "place_id": 78218239
+    },
+    "Leuk, Valais": {
+        "display_name": "Leuk, Wallis, Switzerland",
+        "place_id": 77198395
+    },
+    "Lenzburg, Aargau": {
+        "display_name": "Lenzburg, Bezirk Lenzburg, Aargau, 5600, Switzerland",
+        "place_id": 60329411
+    },
+    "Martigny, Valais": {
+        "display_name": "Martigny, Wallis, Switzerland",
+        "place_id": 77198640
+    },
+    "District, Jura": {
+        "display_name": "Safran Sensing Technologies Switzerland SA, Avenue des Sciences, Y-Parc, Yverdon-les-Bains, District du Jura-Nord vaudois, Vaud, 1400, Switzerland",
+        "place_id": 77769271
+    },
+    "St. Gallen": {
+        "display_name": "St. Gallen, Wahlkreis St. Gallen, St. Gallen, Switzerland",
+        "place_id": 60570964
+    },
+    "Moudon, Vaud": {
+        "display_name": "Moudon, District de la Broye-Vully, Vaud, 1510, Switzerland",
+        "place_id": 77442545
+    },
+    "Frutigen, Bern": {
+        "display_name": "Frutigen, Frutigen-Niedersimmental administrative district, Oberland administrative region, Bern, Switzerland",
+        "place_id": 77380488
+    },
+    "Frauenfeld, Thurgau": {
+        "display_name": "Frauenfeld, Neunforn, Bezirk Frauenfeld, Thurgau, Switzerland",
+        "place_id": 59964916
+    },
+    "Meilen, Zürich": {
+        "display_name": "Meilen, Bezirk Meilen, Zurich, 8706, Switzerland",
+        "place_id": 59789081
+    },
+    "Baden, Aargau": {
+        "display_name": "Baden, Bezirk Baden, Aargau, Switzerland",
+        "place_id": 60373445
+    },
+    "Laufenburg, Aargau": {
+        "display_name": "Laufenburg, Bezirk Laufenburg, Aargau, Switzerland",
+        "place_id": 59800017
+    },
+    "Schwarzenburg, Bern": {
+        "display_name": "Schwarzenburg, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",
+        "place_id": 77534619
+    },
+    "Albula, Graubünden": {
+        "display_name": "Albula, Grisons, Switzerland",
+        "place_id": 61271119
+    },
+    "Grandson, Vaud": {
+        "display_name": "Grandson, District du Jura-Nord vaudois, Vaud, 1422, Switzerland",
+        "place_id": 77738073
+    },
+    "Appenzell Ausserrhoden": {
+        "display_name": "Appenzell Ausserrhoden, Switzerland",
+        "place_id": 60981510
+    },
+    "Muri, Aargau": {
+        "display_name": "Muri, Bezirk Muri, Aargau, 5630, Switzerland",
+        "place_id": 60390483
+    },
+    "Cossonay, Vaud": {
+        "display_name": "Cossonay, District de Morges, Vaud, 1304, Switzerland",
+        "place_id": 78132351
+    },
+    "Laupen, Bern": {
+        "display_name": "Laupen, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, 3177, Switzerland",
+        "place_id": 78266132
+    },
+    "Nidau, Bern": {
+        "display_name": "Nidau, Biel/Bienne administrative district, Seeland administrative region, Bern, 2560, Switzerland",
+        "place_id": 78348555
+    },
+    "Rheinfelden, Aargau": {
+        "display_name": "Rheinfelden, Bezirk Rheinfelden, Aargau, 4310, Switzerland",
+        "place_id": 79416158
+    },
+    "Porrentruy, Jura": {
+        "display_name": "Porrentruy, District de Porrentruy, Jura, Switzerland",
+        "place_id": 78979245
+    },
+    "Bülach, Zürich": {
+        "display_name": "Bülach, Bezirk Bülach, Zurich, 8180, Switzerland",
+        "place_id": 59436288
+    },
+    "La Neuveville, Bern": {
+        "display_name": "La Neuveville, Bernese Jura administrative district, Bernese Jura administrative region, Bern, 2520, Switzerland",
+        "place_id": 78640637
+    },
+    "Fraubrunnen, Bern": {
+        "display_name": "Fraubrunnen, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, 3312, Switzerland",
+        "place_id": 77754378
+    },
+    "Thun, Bern": {
+        "display_name": "Thun, Thun administrative district, Oberland administrative region, Bern, Switzerland",
+        "place_id": 77643258
+    },
+    "Saint-Maurice, Valais": {
+        "display_name": "Saint-Maurice, Wallis, 1890, Switzerland",
+        "place_id": 77501929
+    },
+    "Hinterrhein, Graubünden": {
+        "display_name": "Hinterrhein, Rheinwald, Viamala, Grisons, 7438, Switzerland",
+        "place_id": 60870491
+    },
+    "Kulm, Aargau": {
+        "display_name": "Bezirk Kulm, Aargau, Switzerland",
+        "place_id": 59795987
+    },
+    "Solothurn, Solothurn": {
+        "display_name": "Solothurn, Bezirk Solothurn, Amtei Solothurn-Lebern, Solothurn, Switzerland",
+        "place_id": 78097618
+    },
+    "Andelfingen, Zürich": {
+        "display_name": "Andelfingen, Bezirk Andelfingen, Zurich, Switzerland",
+        "place_id": 60080503
+    },
+    "Landquart, Graubünden": {
+        "display_name": "Landquart, Grisons, Switzerland",
+        "place_id": 60669190
+    },
+    "Distretto di Blenio, Ticino": {
+        "display_name": "Distretto di Blenio, Ticino, Switzerland",
+        "place_id": 61448063
+    },
+    "Einsiedeln, Schwyz": {
+        "display_name": "Einsiedeln, Schwyz, 8840, Switzerland",
+        "place_id": 60327702
+    },
+    "Münchwilen, Thurgau": {
+        "display_name": "Münchwilen (TG), Bezirk Münchwilen, Thurgau, Switzerland",
+        "place_id": 65016333
+    },
+    "Oron, Vaud": {
+        "display_name": "Oron, District de Lavaux-Oron, Vaud, Switzerland",
+        "place_id": 78007706
+    },
+    "Seftigen, Bern": {
+        "display_name": "Seftigen, Thun administrative district, Oberland administrative region, Bern, 3662, Switzerland",
+        "place_id": 77616478
+    },
+    "Trachselwald, Bern": {
+        "display_name": "Trachselwald, Emmental administrative district, Emmental-Oberaargau administrative region, Bern, Switzerland",
+        "place_id": 78663496
+    },
+    "Dorneck, Solothurn": {
+        "display_name": "Bezirk Dorneck, Amtei Dorneck-Thierstein, Solothurn, Switzerland",
+        "place_id": 79054653
+    },
+    "Sierre, Valais": {
+        "display_name": "Sierre, Wallis, 3960, Switzerland",
+        "place_id": 77242007
+    },
+    "Nidwalden": {
+        "display_name": "Nidwalden, Switzerland",
+        "place_id": 60465260
+    },
+    "Küssnacht, Schwyz": {
+        "display_name": "Küssnacht (SZ), Küssnacht, Schwyz, Switzerland",
+        "place_id": 60803135
+    },
+    "Dielsdorf, Zürich": {
+        "display_name": "Dielsdorf, Bezirk Dielsdorf, Zurich, 8157, Switzerland",
+        "place_id": 59867999
+    },
+    "Zurzach, Aargau": {
+        "display_name": "Bad Zurzach, Zurzach, Bezirk Zurzach, Aargau, 5330, Switzerland",
+        "place_id": 59261286
+    },
+    "Burgdorf, Bern": {
+        "display_name": "Burgdorf, Emmental administrative district, Emmental-Oberaargau administrative region, Bern, Switzerland",
+        "place_id": 78052337
+    },
+    "Diessenhofen, Thurgau": {
+        "display_name": "Diessenhofen, Neunforn, Bezirk Frauenfeld, Thurgau, 8253, Switzerland",
+        "place_id": 60072597
+    },
+    "Arbon, Thurgau": {
+        "display_name": "Arbon, Bezirk Arbon, Thurgau, 9320, Switzerland",
+        "place_id": 59583867
+    },
+    "Echallens, Vaud": {
+        "display_name": "Echallens, District du Gros-de-Vaud, Vaud, 1040, Switzerland",
+        "place_id": 77863836
+    },
+    "Pays-d'Enhaut, Vaud": {
+        "display_name": "District de la Riviera-Pays-d’Enhaut, Vaud, Switzerland",
+        "place_id": 77922192
+    },
+    "Olten, Solothurn": {
+        "display_name": "Olten, Bezirk Olten, Amtei Olten-Gösgen, Solothurn, Switzerland",
+        "place_id": 77945236
+    },
+    "Affoltern, Zürich": {
+        "display_name": "Affoltern am Albis, Bezirk Affoltern, Zurich, Switzerland",
+        "place_id": 60499298
+    },
+    "Gersau, Schwyz": {
+        "display_name": "Gersau, Schwyz, 6442, Switzerland",
+        "place_id": 60318518
+    },
+    "Bern, Bern": {
+        "display_name": "Bern, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",
+        "place_id": 77586033
+    },
+    "Obersimmental, Bern": {
+        "display_name": "Amtsbezirk Obersimmental, Oberland administrative region, Bern, 3772, Switzerland",
+        "place_id": 77333801
+    },
+    "Distretto di Vallemaggia, Ticino": {
+        "display_name": "Distretto di Vallemaggia, Ticino, Switzerland",
+        "place_id": 61094490
+    },
+    "Prättigau/Davos, Graubünden": {
+        "display_name": "Prättigau/Davos, Grisons, Switzerland",
+        "place_id": 60803270
+    },
+    "Gösgen, Solothurn": {
+        "display_name": "Bezirk Gösgen, Amtei Olten-Gösgen, Solothurn, Switzerland",
+        "place_id": 78253158
+    },
+    "Bischofszell, Thurgau": {
+        "display_name": "Bischofszell, Bezirk Weinfelden, Thurgau, Switzerland",
+        "place_id": 61022978
+    },
+    "Lebern, Solothurn": {
+        "display_name": "Bezirk Lebern, Amtei Solothurn-Lebern, Solothurn, Switzerland",
+        "place_id": 78681472
+    },
+    "Monthey, Valais": {
+        "display_name": "Monthey, Wallis, Switzerland",
+        "place_id": 77723268
+    },
+    "Brugg, Aargau": {
+        "display_name": "Brugg, Bezirk Brugg, Aargau, Switzerland",
+        "place_id": 60470507
+    },
+    "Surselva, Graubünden": {
+        "display_name": "Surselva, Grisons, Switzerland",
+        "place_id": 61403206
+    },
+    "Wasseramt, Solothurn": {
+        "display_name": "Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, Switzerland",
+        "place_id": 78624690
+    },
+    "Sense, Fribourg": {
+        "display_name": "Sense, Sensebezirk, Bernese Mittelland administrative region, Fribourg, Switzerland",
+        "place_id": 78183788
+    },
+    "Steckborn, Thurgau": {
+        "display_name": "Steckborn, Bezirk Frauenfeld, Thurgau, 8266, Switzerland",
+        "place_id": 59907275
+    },
+    "Delémont, Jura": {
+        "display_name": "Delémont, District de Delémont, Jura, 2800, Switzerland",
+        "place_id": 78869095
+    },
+    "Schwyz, Schwyz": {
+        "display_name": "Schwyz, Switzerland",
+        "place_id": 60116380
+    },
+    "Obwalden": {
+        "display_name": "Obwalden, Switzerland",
+        "place_id": 60595776
+    },
+    "Saanen, Bern": {
+        "display_name": "Saanen, Obersimmental-Saanen administrative district, Oberland administrative region, Bern, Switzerland",
+        "place_id": 77418642
+    },
+    "Schaffhausen": {
+        "display_name": "Schaffhausen, Switzerland",
+        "place_id": 59956547
+    },
+    "Gruyère, Fribourg": {
+        "display_name": "Gruyère District, Fribourg, Switzerland",
+        "place_id": 77938948
+    },
+    "Schlatt-Haslen, Appenzell Innerrhoden": {
+        "display_name": "Schlatt-Haslen, Appenzell Innerrhoden, 9054, Switzerland",
+        "place_id": 60695013
+    },
+    "Geneva": {
+        "display_name": "Geneva, Switzerland",
+        "place_id": 372239671
+    },
+    "Appenzell, Appenzell Innerrhoden": {
+        "display_name": "Appenzell, Appenzell Innerrhoden, 9050, Switzerland",
+        "place_id": 60991017
+    },
+    "Dietikon, Zürich": {
+        "display_name": "Dietikon, Bezirk Dietikon, Zurich, 8953, Switzerland",
+        "place_id": 65408745
+    },
+    "Distretto di Lugano, Ticino": {
+        "display_name": "Distretto di Lugano, Ticino, Switzerland",
+        "place_id": 61492913
+    },
+    "Glâne, Fribourg": {
+        "display_name": "Villars-sur-Glâne, Sarine District, Fribourg, 1752, Switzerland",
+        "place_id": 78100377
+    },
+    "Courtelary, Bern": {
+        "display_name": "Courtelary, Bernese Jura administrative district, Bernese Jura administrative region, Bern, 2608, Switzerland",
+        "place_id": 78712059
+    },
+    "Pfäffikon, Zürich": {
+        "display_name": "Pfäffikon, Bezirk Pfäffikon, Zurich, Switzerland",
+        "place_id": 60188654
+    },
+    "Imboden, Graubünden": {
+        "display_name": "Imboden, Grisons, Switzerland",
+        "place_id": 60842932
+    },
+    "Aarberg, Bern": {
+        "display_name": "Aarberg, Seeland administrative district, Seeland administrative region, Bern, 3270, Switzerland",
+        "place_id": 77632401
+    },
+    "Plessur, Graubünden": {
+        "display_name": "Plessur, Grisons, Switzerland",
+        "place_id": 61069881
+    },
+    "Gäu, Solothurn": {
+        "display_name": "Bezirk Gäu, Amtei Thal-Gäu, Solothurn, Switzerland",
+        "place_id": 78832400
+    },
+    "Interlaken, Bern": {
+        "display_name": "Interlaken, Interlaken-Oberhasli administrative district, Oberland administrative region, Bern, 3800, Switzerland",
+        "place_id": 77358831
+    },
+    "Saane, Fribourg": {
+        "display_name": "Saane, Fribourg, Switzerland",
+        "place_id": 77673567
+    },
+    "Orbe, Vaud": {
+        "display_name": "Orbe, District du Jura-Nord vaudois, Vaud, 1350, Switzerland",
+        "place_id": 78438361
+    },
+    "Konolfingen, Bern": {
+        "display_name": "Konolfingen, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",
+        "place_id": 77203572
+    },
+    "Bucheggberg, Solothurn": {
+        "display_name": "Bezirk Bucheggberg, Amtei Bucheggberg-Wasseramt, Solothurn, Switzerland",
+        "place_id": 77794080
+    },
+    "Hinwil, Zürich": {
+        "display_name": "Hinwil, Bezirk Hinwil, Zurich, Switzerland",
+        "place_id": 59526152
+    },
+    "Sion, Valais": {
+        "display_name": "Sion, Wallis, 1950, Switzerland",
+        "place_id": 77194722
+    },
+    "Lausanne, Vaud": {
+        "display_name": "Lausanne, District de Lausanne, Vaud, Switzerland",
+        "place_id": 373429721
+    },
+    "Veveyse, Fribourg": {
+        "display_name": "Veveyse, Blonay - Saint-Légier, District de la Riviera-Pays-d’Enhaut, Vaud, Switzerland",
+        "place_id": 77258391
+    },
+    "Raron, Valais": {
+        "display_name": "Raron, Westlich Raron, Wallis, 3942, Switzerland",
+        "place_id": 77795771
+    },
+    "Thal, Solothurn": {
+        "display_name": "Bezirk Thal, Amtei Thal-Gäu, Solothurn, Switzerland",
+        "place_id": 78864452
+    },
+    "Zug": {
+        "display_name": "Zug, Switzerland",
+        "place_id": 60849243
+    },
+    "Aubonne, Vaud": {
+        "display_name": "Aubonne, District de Morges, Vaud, 1170, Switzerland",
+        "place_id": 77357446
+    },
+    "Hérens, Valais": {
+        "display_name": "Hérens, Wallis, 2305, Switzerland",
+        "place_id": 77506866
+    },
+    "March, Schwyz": {
+        "display_name": "March, Schwyz, Switzerland",
+        "place_id": 60382810
+    },
+    "Goms, Valais": {
+        "display_name": "Goms, Wallis, Switzerland",
+        "place_id": 383884223
+    },
+    "Rolle, Vaud": {
+        "display_name": "Rolle, District de Nyon, Vaud, 1180, Switzerland",
+        "place_id": 77547778
+    },
+    "Distretto di Leventina, Ticino": {
+        "display_name": "Distretto di Leventina, Ticino, Switzerland",
+        "place_id": 61578938
+    },
+    "Inn, Graubünden": {
+        "display_name": "Region Engiadina Bassa/Val Müstair, Grisons, Switzerland",
+        "place_id": 61159227
+    },
+    "Aarau, Aargau": {
+        "display_name": "Aarau, Bezirk Aarau, Aargau, 5000, Switzerland",
+        "place_id": 60119791
+    },
+    "Glarus": {
+        "display_name": "Glarus, Switzerland",
+        "place_id": 61194166
+    },
+    "Uster, Zürich": {
+        "display_name": "Uster, Bezirk Uster, Zurich, Switzerland",
+        "place_id": 92447777
+    },
+    "Kreuzlingen, Thurgau": {
+        "display_name": "Kreuzlingen, Bezirk Kreuzlingen, Thurgau, Switzerland",
+        "place_id": 92347798
+    },
+    "Distretto di Riviera, Ticino": {
+        "display_name": "Distretto di Riviera, Ticino, Switzerland",
+        "place_id": 93785036
+    },
+    "Entlebuch": {
+        "display_name": "Entlebuch, Lucerne, Switzerland",
+        "place_id": 93759646
+    },
+    "See, Fribourg": {
+        "display_name": "See District, Fribourg, Switzerland",
+        "place_id": 110286278
+    },
+    "Waldenburg, Basel": {
+        "display_name": "Waldenburg, Bezirk Waldenburg, Basel-Landschaft, 4437, Switzerland",
+        "place_id": 110822989
+    },
+    "Liestal, Basel": {
+        "display_name": "Liestal, Bezirk Liestal, Basel-Landschaft, 4410, Switzerland",
+        "place_id": 111510169
+    },
+    "Laufen, ": {
+        "display_name": "Laufen, Bezirk Laufen, Basel-Landschaft, 4242, Switzerland",
+        "place_id": 112168802
+    },
+    "Sursee, Lucerne": {
+        "display_name": "Sursee, Lucerne, 6210, Switzerland",
+        "place_id": 93015806
+    },
+    "Neuchâtel, Neuchâtel": {
+        "display_name": "Neuchâtel, Switzerland",
+        "place_id": 110655093
+    },
+    "Amt Hochdorf, Lucerne": {
+        "display_name": "Hochdorf, Lucerne, 6280, Switzerland",
+        "place_id": 92984786
+    },
+    "Val-de-Travers, Neuchâtel": {
+        "display_name": "Val-de-Travers, Neuchâtel, Switzerland",
+        "place_id": 110041603
+    },
+    "Boudry, Neuchâtel": {
+        "display_name": "Boudry, Neuchâtel, Switzerland",
+        "place_id": 109992961
+    },
+    "La Chaux-de-Fonds, Neuchâtel": {
+        "display_name": "La Chaux-de-Fonds, Neuchâtel, Switzerland",
+        "place_id": 110328272
+    },
+    "Arlesheim, Basel": {
+        "display_name": "Arlesheim, Bezirk Arlesheim, Basel-Landschaft, 4144, Switzerland",
+        "place_id": 110908193
+    },
+    "Val-de-Ruz, Neuchâtel": {
+        "display_name": "Val-de-Ruz, Neuchâtel, Switzerland",
+        "place_id": 110271588
+    },
+    "Le Locle, Neuchâtel": {
+        "display_name": "Le Locle, Neuchâtel, 2400, Switzerland",
+        "place_id": 111033902
+    },
+    "Amt Willisau, Lucerne": {
+        "display_name": "Willisau, Lucerne, 6130, Switzerland",
+        "place_id": 78927617
+    },
+    "Sissach, Basel": {
+        "display_name": "Sissach, Bezirk Sissach, Basel-Landschaft, 4450, Switzerland",
+        "place_id": 111022848
+    }
+}
