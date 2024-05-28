@@ -1,0 +1,194 @@
+{
+    "Shimane Prefecture": {
+        "display_name": "Shimane Prefecture, Japan",
+        "place_id": 261686323
+    },
+    "Gifu Prefecture": {
+        "display_name": "Gifu Prefecture, Chubu Region, Japan",
+        "place_id": 230207167
+    },
+    "Aomori Prefecture": {
+        "display_name": "Aomori Prefecture, Japan",
+        "place_id": 233565030
+    },
+    "Fukui Prefecture": {
+        "display_name": "Fukui Prefecture, Chubu Region, Japan",
+        "place_id": 230343721
+    },
+    "Kanagawa Prefecture": {
+        "display_name": "Kanagawa Prefecture, Japan",
+        "place_id": 228332917
+    },
+    "Yamaguchi Prefecture": {
+        "display_name": "Yamaguchi Prefecture, Japan",
+        "place_id": 233187742
+    },
+    "Saga Prefecture": {
+        "display_name": "Saga Prefecture, Japan",
+        "place_id": 232734964
+    },
+    "Tochigi Prefecture": {
+        "display_name": "Tochigi Prefecture, Japan",
+        "place_id": 226187617
+    },
+    "Miyagi Prefecture": {
+        "display_name": "Miyagi Prefecture, Japan",
+        "place_id": 225064677
+    },
+    "Ibaraki Prefecture": {
+        "display_name": "Ibaraki Prefecture, Japan",
+        "place_id": 226646408
+    },
+    "Ōita Prefecture": {
+        "display_name": "Oita Prefecture, Japan",
+        "place_id": 232658012
+    },
+    "Kōchi Prefecture": {
+        "display_name": "Kochi Prefecture, Japan",
+        "place_id": 231832931
+    },
+    "Niigata Prefecture": {
+        "display_name": "Niigata Prefecture, Chubu Region, Japan",
+        "place_id": 225729799
+    },
+    "Kantō": {
+        "display_name": "Kanto, Japan",
+        "place_id": 224789131
+    },
+    "Shizuoka Prefecture": {
+        "display_name": "Shizuoka Prefecture, Chubu Region, Japan",
+        "place_id": 227616533
+    },
+    "Tottori Prefecture": {
+        "display_name": "Tottori Prefecture, Japan",
+        "place_id": 230366228
+    },
+    "Tokushima Prefecture": {
+        "display_name": "Tokushima Prefecture, Japan",
+        "place_id": 231766304
+    },
+    "Toyama Prefecture": {
+        "display_name": "Toyama Prefecture, Chubu Region, Japan",
+        "place_id": 225952896
+    },
+    "Aichi Prefecture": {
+        "display_name": "Aichi Prefecture, Chubu Region, Japan",
+        "place_id": 227390290
+    },
+    "Kyoto Prefecture": {
+        "display_name": "Kyoto Prefecture, Japan",
+        "place_id": 230019092
+    },
+    "Ehime Prefecture": {
+        "display_name": "Ehime Prefecture, Japan",
+        "place_id": 232178513
+    },
+    "Miyazaki Prefecture": {
+        "display_name": "Miyazaki Prefecture, Japan",
+        "place_id": 232435865
+    },
+    "Tokyo Prefecture": {
+        "display_name": "Tokyo, Japan",
+        "place_id": 225058060
+    },
+    "Iwate Prefecture": {
+        "display_name": "Iwate Prefecture, Japan",
+        "place_id": 225253174
+    },
+    "Yamagata Prefecture": {
+        "display_name": "Yamagata Prefecture, Japan",
+        "place_id": 227676164
+    },
+    "Saitama Prefecture": {
+        "display_name": "Saitama Prefecture, Japan",
+        "place_id": 226600513
+    },
+    "Shiga Prefecture": {
+        "display_name": "Shiga Prefecture, Japan",
+        "place_id": 229755776
+    },
+    "Okinawa Prefecture": {
+        "display_name": "Okinawa Prefecture, Japan",
+        "place_id": "204305184"
+    },
+    "Kagawa Prefecture": {
+        "display_name": "Kagawa Prefecture, Japan",
+        "place_id": 230485460
+    },
+    "Chiba Prefecture": {
+        "display_name": "Chiba Prefecture, Japan",
+        "place_id": 227292969
+    },
+    "Osaka Prefecture": {
+        "display_name": "Osaka Prefecture, Japan",
+        "place_id": 231099240
+    },
+    "Kumamoto Prefecture": {
+        "display_name": "Kumamoto Prefecture, Japan",
+        "place_id": 232633736
+    },
+    "Nara Prefecture": {
+        "display_name": "Nara Prefecture, Japan",
+        "place_id": 232143456
+    },
+    "Okayama Prefecture": {
+        "display_name": "Okayama Prefecture, Japan",
+        "place_id": 230641721
+    },
+    "Nagasaki Prefecture": {
+        "display_name": "Nagasaki Prefecture, Japan",
+        "place_id": 232995724
+    },
+    "Hiroshima Prefecture": {
+        "display_name": "Hiroshima Prefecture, Japan",
+        "place_id": 230968377
+    },
+    "Nagano Prefecture": {
+        "display_name": "Nagano Prefecture, Chubu Region, Japan",
+        "place_id": 226035057
+    },
+    "Yamanashi Prefecture": {
+        "display_name": "Yamanashi Prefecture, Chubu Region, Japan",
+        "place_id": 229284373
+    },
+    "Fukushima Prefecture": {
+        "display_name": "Fukushima Prefecture, Japan",
+        "place_id": 227238792
+    },
+    "Gunma Prefecture": {
+        "display_name": "Gunma Prefecture, Japan",
+        "place_id": 226320050
+    },
+    "Akita Prefecture": {
+        "display_name": "Akita Prefecture, Japan",
+        "place_id": 225565949
+    },
+    "Kagoshima Prefecture": {
+        "display_name": "Kagoshima Prefecture, Japan",
+        "place_id": 224457128
+    },
+    "Hyōgo Prefecture": {
+        "display_name": "Hyogo Prefecture, Japan",
+        "place_id": 230750895
+    },
+    "Mie Prefecture": {
+        "display_name": "Mie Prefecture, Japan",
+        "place_id": 227069102
+    },
+    "Ishikawa Prefecture": {
+        "display_name": "Ishikawa Prefecture, Chubu Region, Japan",
+        "place_id": 225690952
+    },
+    "Wakayama Prefecture": {
+        "display_name": "Wakayama Prefecture, Japan",
+        "place_id": 231875060
+    },
+    "Fukuoka Prefecture": {
+        "display_name": "Fukuoka Prefecture, Japan",
+        "place_id": 231969670
+    },
+    "Hokkaido Prefecture": {
+        "display_name": "Hokkaido Prefecture, Japan",
+        "place_id":234870480
+    }
+}

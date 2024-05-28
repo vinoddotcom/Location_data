@@ -1,0 +1,226 @@
+{
+    "District of Columbia": {
+        "display_name": "District of Columbia, United States",
+        "place_id": 300876756
+    },
+    "Arizona": {
+        "display_name": "Arizona, United States",
+        "place_id": 286810306
+    },
+    "Montana": {
+        "display_name": "Montana, United States",
+        "place_id": 284411850
+    },
+    "South Dakota": {
+        "display_name": "South Dakota, United States",
+        "place_id": 284262371
+    },
+    "American Samoa": {
+        "display_name": "American Samoa, United States",
+        "place_id": 328773142
+    },
+    "Nebraska": {
+        "display_name": "Nebraska, United States",
+        "place_id": 284990063
+    },
+    "Guam": {
+        "display_name": "Guam, United States",
+        "place_id": 224360198
+    },
+    "Idaho": {
+        "display_name": "Idaho, United States",
+        "place_id": 283103970
+    },
+    "Vermont": {
+        "display_name": "Vermont, United States",
+        "place_id": 306705339
+    },
+    "Hawaii": {
+        "display_name": "Hawaii, United States",
+        "place_id": 328597697
+    },
+    "Louisiana": {
+        "display_name": "Louisiana, United States",
+        "place_id": 261938310
+    },
+    "New Hampshire": {
+        "display_name": "New Hampshire, United States",
+        "place_id": 315503964
+    },
+    "Northern Mariana Islands": {
+        "display_name": "Northern Mariana Islands, United States",
+        "place_id": 227011551
+    },
+    "U.S. Virgin Islands": {
+        "display_name": "United States Virgin Islands, United States",
+        "place_id": 265113781
+    },
+    "North Dakota": {
+        "display_name": "North Dakota, United States",
+        "place_id": 284357421
+    },
+    "Michigan": {
+        "display_name": "Michigan, United States",
+        "place_id": 319737572
+    },
+    "California": {
+        "display_name": "California, United States",
+        "place_id": 278163731
+    },
+    "New York": {
+        "display_name": "New York, United States",
+        "place_id": 389960571
+    },
+    "Alabama": {
+        "display_name": "Alabama, United States",
+        "place_id": 297148463
+    },
+    "Arkansas": {
+        "display_name": "Arkansas, United States",
+        "place_id": 290140901
+    },
+    "Puerto Rico": {
+        "display_name": "Puerto Rico, United States",
+        "place_id": 265555064
+    },
+    "Florida": {
+        "display_name": "Florida, United States",
+        "place_id": 262774093
+    },
+    "South Carolina": {
+        "display_name": "South Carolina, United States",
+        "place_id": 298894279
+    },
+    "New Mexico": {
+        "display_name": "New Mexico, United States",
+        "place_id": 286513920
+    },
+    "Iowa": {
+        "display_name": "Iowa, United States",
+        "place_id": 324423531
+    },
+    "Wisconsin": {
+        "display_name": "Wisconsin, United States",
+        "place_id": 324956753
+    },
+    "Indiana": {
+        "display_name": "Indiana, United States",
+        "place_id": 292272984
+    },
+    "Maine": {
+        "display_name": "Maine, United States",
+        "place_id": 315874908
+    },
+    "Tennessee": {
+        "display_name": "Tennessee, United States",
+        "place_id": 295684015
+    },
+    "Connecticut": {
+        "display_name": "Connecticut, United States",
+        "place_id": 379827701
+    },
+    "Delaware": {
+        "display_name": "Delaware, United States",
+        "place_id": 298371766
+    },
+    "New Jersey": {
+        "display_name": "New Jersey, United States",
+        "place_id": 310365092
+    },
+    "Missouri": {
+        "display_name": "Missouri, United States",
+        "place_id": 291290659
+    },
+    "Washington": {
+        "display_name": "Washington, District of Columbia, United States",
+        "place_id": 300781322
+    },
+    "Texas": {
+        "display_name": "Texas, United States",
+        "place_id": 273486554
+    },
+    "Rhode Island": {
+        "display_name": "Rhode Island, United States",
+        "place_id": 388626626
+    },
+    "Alaska": {
+        "display_name": "Alaska, United States",
+        "place_id": 141299072
+    },
+    "Wyoming": {
+        "display_name": "Wyoming, United States",
+        "place_id": 284297685
+    },
+    "Massachusetts": {
+        "display_name": "Massachusetts, United States",
+        "place_id": 314991087
+    },
+    "Kentucky": {
+        "display_name": "Kentucky, United States",
+        "place_id": 292228906
+    },
+    "North Carolina": {
+        "display_name": "North Carolina, United States",
+        "place_id": 297711286
+    },
+    "Oklahoma": {
+        "display_name": "Oklahoma, United States",
+        "place_id": 287681749
+    },
+    "Georgia": {
+        "display_name": "Georgia, United States",
+        "place_id": 296803601
+    },
+    "West Virginia": {
+        "display_name": "West Virginia, United States",
+        "place_id": 294315110
+    },
+    "Nevada": {
+        "display_name": "Nevada, United States",
+        "place_id": 278227109
+    },
+    "Ohio": {
+        "display_name": "Ohio, United States",
+        "place_id": 321146443
+    },
+    "Colorado": {
+        "display_name": "Colorado, United States",
+        "place_id": 285756431
+    },
+    "Pennsylvania": {
+        "display_name": "Pennsylvania, United States",
+        "place_id": 302913148
+    },
+    "Maryland": {
+        "display_name": "Maryland, United States",
+        "place_id": 300784014
+    },
+    "Virginia": {
+        "display_name": "Virginia, United States",
+        "place_id": 299951255
+    },
+    "Illinois": {
+        "display_name": "Illinois, United States",
+        "place_id": 292045630
+    },
+    "Oregon": {
+        "display_name": "Oregon, United States",
+        "place_id": 282865384
+    },
+    "Utah": {
+        "display_name": "Utah, United States",
+        "place_id": 285937834
+    },
+    "Minnesota": {
+        "display_name": "Minnesota, United States",
+        "place_id": 325272629
+    },
+    "Kansas": {
+        "display_name": "Kansas, United States",
+        "place_id": 285007094
+    },
+    "Mississippi": {
+        "display_name": "Mississippi, United States",
+        "place_id": 289546411
+    }
+}
